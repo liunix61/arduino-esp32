@@ -1,0 +1,8642 @@
+{
+  "version": 1,
+  "updated_at": "2026-11-14T08:05:59Z",
+  "sha": "3ed7b779f2b4c797b3512f3fc10a7a978a78fb18",
+  "last_updated": "cold",
+  "sketches": {
+    "libraries/AsyncUDP/examples/AsyncUDPServer/AsyncUDPServer.ino": {
+      "cold_s": 110.024,
+      "by_target": {
+        "esp32": {
+          "cold_s": 15.827
+        },
+        "esp32c3": {
+          "cold_s": 14.393
+        },
+        "esp32c5": {
+          "cold_s": 14.62
+        },
+        "esp32c6": {
+          "cold_s": 14.638
+        },
+        "esp32p4": {
+          "cold_s": 16.225
+        },
+        "esp32s2": {
+          "cold_s": 16.565
+        },
+        "esp32s3": {
+          "cold_s": 17.756
+        }
+      }
+    },
+    "libraries/ESP32/examples/AnalogOut/SigmaDelta/SigmaDelta.ino": {
+      "cold_s": 25.139,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.349
+        },
+        "esp32c3": {
+          "cold_s": 2.114
+        },
+        "esp32c5": {
+          "cold_s": 2.198
+        },
+        "esp32c6": {
+          "cold_s": 2.169
+        },
+        "esp32h2": {
+          "cold_s": 8.204
+        },
+        "esp32p4": {
+          "cold_s": 2.223
+        },
+        "esp32s2": {
+          "cold_s": 2.314
+        },
+        "esp32s3": {
+          "cold_s": 2.568
+        }
+      }
+    },
+    "libraries/ESP32/examples/FreeRTOS/Mutex/Mutex.ino": {
+      "cold_s": 20.516,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.125
+        },
+        "esp32c3": {
+          "cold_s": 2.154
+        },
+        "esp32c5": {
+          "cold_s": 2.444
+        },
+        "esp32c6": {
+          "cold_s": 2.19
+        },
+        "esp32h2": {
+          "cold_s": 2.403
+        },
+        "esp32p4": {
+          "cold_s": 2.229
+        },
+        "esp32s2": {
+          "cold_s": 2.357
+        },
+        "esp32s3": {
+          "cold_s": 2.614
+        }
+      }
+    },
+    "libraries/ESP32/examples/RMT/RMTReadXJT/RMTReadXJT.ino": {
+      "cold_s": 19.813,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.202
+        },
+        "esp32c3": {
+          "cold_s": 2.203
+        },
+        "esp32c5": {
+          "cold_s": 2.511
+        },
+        "esp32c6": {
+          "cold_s": 2.259
+        },
+        "esp32h2": {
+          "cold_s": 2.27
+        },
+        "esp32p4": {
+          "cold_s": 2.273
+        },
+        "esp32s2": {
+          "cold_s": 2.4
+        },
+        "esp32s3": {
+          "cold_s": 2.695
+        }
+      }
+    },
+    "libraries/ESP32/examples/Serial/RS485_Echo_Demo/RS485_Echo_Demo.ino": {
+      "cold_s": 19.443,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.153
+        },
+        "esp32c3": {
+          "cold_s": 2.146
+        },
+        "esp32c5": {
+          "cold_s": 2.306
+        },
+        "esp32c6": {
+          "cold_s": 2.416
+        },
+        "esp32h2": {
+          "cold_s": 2.204
+        },
+        "esp32p4": {
+          "cold_s": 2.236
+        },
+        "esp32s2": {
+          "cold_s": 2.343
+        },
+        "esp32s3": {
+          "cold_s": 2.639
+        }
+      }
+    },
+    "libraries/ESP32/examples/Touch/TouchButton/TouchButton.ino": {
+      "cold_s": 10.494,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.179
+        },
+        "esp32p4": {
+          "cold_s": 2.253
+        },
+        "esp32s2": {
+          "cold_s": 2.408
+        },
+        "esp32s3": {
+          "cold_s": 2.654
+        }
+      }
+    },
+    "libraries/ESPmDNS/examples/mDNS-SD_Extended/mDNS-SD_Extended.ino": {
+      "cold_s": 27.771,
+      "by_target": {
+        "esp32": {
+          "cold_s": 5.037
+        },
+        "esp32c3": {
+          "cold_s": 3.157
+        },
+        "esp32c5": {
+          "cold_s": 3.319
+        },
+        "esp32c6": {
+          "cold_s": 3.415
+        },
+        "esp32p4": {
+          "cold_s": 3.212
+        },
+        "esp32s2": {
+          "cold_s": 4.607
+        },
+        "esp32s3": {
+          "cold_s": 5.024
+        }
+      }
+    },
+    "libraries/HTTPClient/examples/StreamHttpClient/StreamHttpClient.ino": {
+      "cold_s": 37.941,
+      "by_target": {
+        "esp32": {
+          "cold_s": 6.49
+        },
+        "esp32c3": {
+          "cold_s": 4.446
+        },
+        "esp32c5": {
+          "cold_s": 4.611
+        },
+        "esp32c6": {
+          "cold_s": 4.592
+        },
+        "esp32p4": {
+          "cold_s": 4.623
+        },
+        "esp32s2": {
+          "cold_s": 6.272
+        },
+        "esp32s3": {
+          "cold_s": 6.907
+        }
+      }
+    },
+    "libraries/Matter/examples/Commissioning/MatterOnNetworkEthernet/MatterOnNetworkEthernet.ino": {
+      "cold_s": 508.922,
+      "by_target": {
+        "esp32": {
+          "cold_s": 75.715
+        },
+        "esp32c3": {
+          "cold_s": 68.558
+        },
+        "esp32c5": {
+          "cold_s": 67.453
+        },
+        "esp32c6": {
+          "cold_s": 69.13
+        },
+        "esp32h2": {
+          "cold_s": 66.52
+        },
+        "esp32s2": {
+          "cold_s": 79.055
+        },
+        "esp32s3": {
+          "cold_s": 82.491
+        }
+      }
+    },
+    "libraries/NetworkClientSecure/examples/WiFiClientPSK/WiFiClientPSK.ino": {
+      "cold_s": 28.493,
+      "by_target": {
+        "esp32": {
+          "cold_s": 5.037
+        },
+        "esp32c3": {
+          "cold_s": 3.289
+        },
+        "esp32c5": {
+          "cold_s": 3.357
+        },
+        "esp32c6": {
+          "cold_s": 3.428
+        },
+        "esp32p4": {
+          "cold_s": 3.412
+        },
+        "esp32s2": {
+          "cold_s": 4.839
+        },
+        "esp32s3": {
+          "cold_s": 5.131
+        }
+      }
+    },
+    "libraries/SD_MMC/examples/SDMMC_time/SDMMC_time.ino": {
+      "cold_s": 19.439,
+      "by_target": {
+        "esp32": {
+          "cold_s": 6.965
+        },
+        "esp32p4": {
+          "cold_s": 5.343
+        },
+        "esp32s3": {
+          "cold_s": 7.131
+        }
+      }
+    },
+    "libraries/WebServer/examples/Filters/Filters.ino": {
+      "cold_s": 56.598,
+      "by_target": {
+        "esp32": {
+          "cold_s": 8.756
+        },
+        "esp32c3": {
+          "cold_s": 7.649
+        },
+        "esp32c5": {
+          "cold_s": 7.897
+        },
+        "esp32c6": {
+          "cold_s": 7.919
+        },
+        "esp32p4": {
+          "cold_s": 7.032
+        },
+        "esp32s2": {
+          "cold_s": 8.523
+        },
+        "esp32s3": {
+          "cold_s": 8.822
+        }
+      }
+    },
+    "libraries/WebServer/examples/WebUpdate/WebUpdate.ino": {
+      "cold_s": 34.846,
+      "by_target": {
+        "esp32": {
+          "cold_s": 6.143
+        },
+        "esp32c3": {
+          "cold_s": 4.169
+        },
+        "esp32c5": {
+          "cold_s": 4.196
+        },
+        "esp32c6": {
+          "cold_s": 4.285
+        },
+        "esp32p4": {
+          "cold_s": 4.187
+        },
+        "esp32s2": {
+          "cold_s": 5.724
+        },
+        "esp32s3": {
+          "cold_s": 6.142
+        }
+      }
+    },
+    "libraries/WiFi/examples/FTM/FTM_Initiator/FTM_Initiator.ino": {
+      "cold_s": 26.478,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.687
+        },
+        "esp32c3": {
+          "cold_s": 3.125
+        },
+        "esp32c5": {
+          "cold_s": 3.264
+        },
+        "esp32c6": {
+          "cold_s": 3.233
+        },
+        "esp32p4": {
+          "cold_s": 3.104
+        },
+        "esp32s2": {
+          "cold_s": 4.395
+        },
+        "esp32s3": {
+          "cold_s": 4.67
+        }
+      }
+    },
+    "libraries/WiFi/examples/WiFiMultiAdvanced/WiFiMultiAdvanced.ino": {
+      "cold_s": 29.737,
+      "by_target": {
+        "esp32": {
+          "cold_s": 5.4
+        },
+        "esp32c3": {
+          "cold_s": 3.362
+        },
+        "esp32c5": {
+          "cold_s": 3.522
+        },
+        "esp32c6": {
+          "cold_s": 3.464
+        },
+        "esp32p4": {
+          "cold_s": 3.443
+        },
+        "esp32s2": {
+          "cold_s": 5.134
+        },
+        "esp32s3": {
+          "cold_s": 5.412
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Power_Outlet/Zigbee_Power_Outlet.ino": {
+      "cold_s": 128.937,
+      "by_target": {
+        "esp32": {
+          "cold_s": 18.603
+        },
+        "esp32c3": {
+          "cold_s": 17.327
+        },
+        "esp32c5": {
+          "cold_s": 17.986
+        },
+        "esp32c6": {
+          "cold_s": 18.123
+        },
+        "esp32h2": {
+          "cold_s": 17.766
+        },
+        "esp32s2": {
+          "cold_s": 19.125
+        },
+        "esp32s3": {
+          "cold_s": 20.007
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/CoAP/CoAP_Greenhouse/greenhouse_client/greenhouse_client.ino": {
+      "cold_s": 15.911,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 5.303
+        },
+        "esp32c6": {
+          "cold_s": 5.359
+        },
+        "esp32h2": {
+          "cold_s": 5.249
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/ThreadDNSSD/ThreadDNSSD_Advertise/ThreadDNSSD_Advertise.ino": {
+      "cold_s": 8.609,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 2.863
+        },
+        "esp32c6": {
+          "cold_s": 2.89
+        },
+        "esp32h2": {
+          "cold_s": 2.856
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/UDP/UDP_SensorNetwork/sensor_node/sensor_node.ino": {
+      "cold_s": 8.817,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 2.912
+        },
+        "esp32c6": {
+          "cold_s": 2.974
+        },
+        "esp32h2": {
+          "cold_s": 2.931
+        }
+      }
+    },
+    "libraries/USB/examples/AudioCardMultiRate/AudioCardMultiRate.ino": {
+      "cold_s": 57.595,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 19.301
+        },
+        "esp32s2": {
+          "cold_s": 18.749
+        },
+        "esp32s3": {
+          "cold_s": 19.545
+        }
+      }
+    },
+    "libraries/USB/examples/HIDVendor/HIDVendor.ino": {
+      "cold_s": 31.471,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 10.121
+        },
+        "esp32s2": {
+          "cold_s": 10.79
+        },
+        "esp32s3": {
+          "cold_s": 10.56
+        }
+      }
+    },
+    "libraries/USB/examples/MIDI/MidiMusicBox/MidiMusicBox.ino": {
+      "cold_s": 9.651,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 2.884
+        },
+        "esp32s2": {
+          "cold_s": 3.256
+        },
+        "esp32s3": {
+          "cold_s": 3.511
+        }
+      }
+    },
+    "libraries/USB/examples/USBVendor/USBVendor.ino": {
+      "cold_s": 9.72,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 2.894
+        },
+        "esp32s2": {
+          "cold_s": 3.301
+        },
+        "esp32s3": {
+          "cold_s": 3.525
+        }
+      }
+    },
+    "libraries/ArduinoOTA/examples/BasicOTA/BasicOTA.ino": {
+      "cold_s": 174.431,
+      "by_target": {
+        "esp32": {
+          "cold_s": 25.995
+        },
+        "esp32c3": {
+          "cold_s": 23.349
+        },
+        "esp32c5": {
+          "cold_s": 22.875
+        },
+        "esp32c6": {
+          "cold_s": 23.609
+        },
+        "esp32p4": {
+          "cold_s": 24.861
+        },
+        "esp32s2": {
+          "cold_s": 25.815
+        },
+        "esp32s3": {
+          "cold_s": 27.927
+        }
+      }
+    },
+    "libraries/AsyncUDP/examples/AsyncUDPClient/AsyncUDPClient.ino": {
+      "cold_s": 33.464,
+      "by_target": {
+        "esp32": {
+          "cold_s": 5.973
+        },
+        "esp32c3": {
+          "cold_s": 3.832
+        },
+        "esp32c5": {
+          "cold_s": 4.045
+        },
+        "esp32c6": {
+          "cold_s": 4.008
+        },
+        "esp32p4": {
+          "cold_s": 3.888
+        },
+        "esp32s2": {
+          "cold_s": 5.459
+        },
+        "esp32s3": {
+          "cold_s": 6.259
+        }
+      }
+    },
+    "libraries/BluetoothSerial/examples/GetLocalMAC/GetLocalMAC.ino": {
+      "cold_s": 17.639,
+      "by_target": {
+        "esp32": {
+          "cold_s": 17.639
+        }
+      }
+    },
+    "libraries/Console/examples/ConsoleManual/ConsoleManual.ino": {
+      "cold_s": 42.655,
+      "by_target": {
+        "esp32": {
+          "cold_s": 5.383
+        },
+        "esp32c3": {
+          "cold_s": 3.991
+        },
+        "esp32c5": {
+          "cold_s": 3.98
+        },
+        "esp32c6": {
+          "cold_s": 4.025
+        },
+        "esp32h2": {
+          "cold_s": 12.321
+        },
+        "esp32p4": {
+          "cold_s": 4.072
+        },
+        "esp32s2": {
+          "cold_s": 4.144
+        },
+        "esp32s3": {
+          "cold_s": 4.739
+        }
+      }
+    },
+    "libraries/ESP32/examples/ArduinoStackSize/ArduinoStackSize.ino": {
+      "cold_s": 23.494,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.965
+        },
+        "esp32c3": {
+          "cold_s": 2.608
+        },
+        "esp32c5": {
+          "cold_s": 2.719
+        },
+        "esp32c6": {
+          "cold_s": 2.659
+        },
+        "esp32h2": {
+          "cold_s": 2.668
+        },
+        "esp32p4": {
+          "cold_s": 2.714
+        },
+        "esp32s2": {
+          "cold_s": 2.878
+        },
+        "esp32s3": {
+          "cold_s": 3.283
+        }
+      }
+    },
+    "libraries/ESP32/examples/GPIO/FunctionalInterruptLambda/FunctionalInterruptLambda.ino": {
+      "cold_s": 24.052,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.028
+        },
+        "esp32c3": {
+          "cold_s": 2.656
+        },
+        "esp32c5": {
+          "cold_s": 2.765
+        },
+        "esp32c6": {
+          "cold_s": 2.812
+        },
+        "esp32h2": {
+          "cold_s": 2.69
+        },
+        "esp32p4": {
+          "cold_s": 2.76
+        },
+        "esp32s2": {
+          "cold_s": 2.979
+        },
+        "esp32s3": {
+          "cold_s": 3.362
+        }
+      }
+    },
+    "libraries/ESP32/examples/ResetReason/ResetReason/ResetReason.ino": {
+      "cold_s": 23.598,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.95
+        },
+        "esp32c3": {
+          "cold_s": 2.625
+        },
+        "esp32c5": {
+          "cold_s": 2.747
+        },
+        "esp32c6": {
+          "cold_s": 2.714
+        },
+        "esp32h2": {
+          "cold_s": 2.629
+        },
+        "esp32p4": {
+          "cold_s": 2.768
+        },
+        "esp32s2": {
+          "cold_s": 2.895
+        },
+        "esp32s3": {
+          "cold_s": 3.27
+        }
+      }
+    },
+    "libraries/ESP32/examples/Serial/Serial_STD_Func_OnReceive/Serial_STD_Func_OnReceive.ino": {
+      "cold_s": 23.722,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.972
+        },
+        "esp32c3": {
+          "cold_s": 2.648
+        },
+        "esp32c5": {
+          "cold_s": 2.763
+        },
+        "esp32c6": {
+          "cold_s": 2.729
+        },
+        "esp32h2": {
+          "cold_s": 2.669
+        },
+        "esp32p4": {
+          "cold_s": 2.754
+        },
+        "esp32s2": {
+          "cold_s": 2.884
+        },
+        "esp32s3": {
+          "cold_s": 3.303
+        }
+      }
+    },
+    "libraries/ESP_I2S/examples/Port_selection/Port_selection.ino": {
+      "cold_s": 26.552,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.395
+        },
+        "esp32c3": {
+          "cold_s": 2.956
+        },
+        "esp32c5": {
+          "cold_s": 3.077
+        },
+        "esp32c6": {
+          "cold_s": 3.078
+        },
+        "esp32h2": {
+          "cold_s": 3.078
+        },
+        "esp32p4": {
+          "cold_s": 3.075
+        },
+        "esp32s2": {
+          "cold_s": 3.215
+        },
+        "esp32s3": {
+          "cold_s": 3.678
+        }
+      }
+    },
+    "libraries/Ethernet/examples/ETH_W5500_IDF_SPI/ETH_W5500_IDF_SPI.ino": {
+      "cold_s": 40.354,
+      "by_target": {
+        "esp32": {
+          "cold_s": 8.179
+        },
+        "esp32c3": {
+          "cold_s": 3.803
+        },
+        "esp32c5": {
+          "cold_s": 4.181
+        },
+        "esp32c6": {
+          "cold_s": 3.974
+        },
+        "esp32h2": {
+          "cold_s": 6.522
+        },
+        "esp32p4": {
+          "cold_s": 4.077
+        },
+        "esp32s2": {
+          "cold_s": 4.519
+        },
+        "esp32s3": {
+          "cold_s": 5.099
+        }
+      }
+    },
+    "libraries/HTTPUpdate/examples/httpUpdateSPIFFS/httpUpdateSPIFFS.ino": {
+      "cold_s": 58.401,
+      "by_target": {
+        "esp32": {
+          "cold_s": 10.114
+        },
+        "esp32c3": {
+          "cold_s": 7.075
+        },
+        "esp32c5": {
+          "cold_s": 7.232
+        },
+        "esp32c6": {
+          "cold_s": 7.131
+        },
+        "esp32p4": {
+          "cold_s": 7.093
+        },
+        "esp32s2": {
+          "cold_s": 9.579
+        },
+        "esp32s3": {
+          "cold_s": 10.177
+        }
+      }
+    },
+    "libraries/Hash/examples/SHA1/SHA1.ino": {
+      "cold_s": 25.122,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.076
+        },
+        "esp32c3": {
+          "cold_s": 2.668
+        },
+        "esp32c5": {
+          "cold_s": 2.782
+        },
+        "esp32c6": {
+          "cold_s": 2.73
+        },
+        "esp32h2": {
+          "cold_s": 3.822
+        },
+        "esp32p4": {
+          "cold_s": 2.77
+        },
+        "esp32s2": {
+          "cold_s": 2.93
+        },
+        "esp32s3": {
+          "cold_s": 3.344
+        }
+      }
+    },
+    "libraries/Matter/examples/Control/MatterSimpleBlinds/MatterSimpleBlinds.ino": {
+      "cold_s": 635.91,
+      "by_target": {
+        "esp32": {
+          "cold_s": 87.776
+        },
+        "esp32c3": {
+          "cold_s": 85.883
+        },
+        "esp32c5": {
+          "cold_s": 88.508
+        },
+        "esp32c6": {
+          "cold_s": 88.63
+        },
+        "esp32h2": {
+          "cold_s": 83.701
+        },
+        "esp32s2": {
+          "cold_s": 96.065
+        },
+        "esp32s3": {
+          "cold_s": 105.347
+        }
+      }
+    },
+    "libraries/Matter/examples/Lighting/MatterEnhancedColorLight/MatterEnhancedColorLight.ino": {
+      "cold_s": 118.768,
+      "by_target": {
+        "esp32": {
+          "cold_s": 23.341
+        },
+        "esp32c3": {
+          "cold_s": 11.672
+        },
+        "esp32c5": {
+          "cold_s": 12.004
+        },
+        "esp32c6": {
+          "cold_s": 12.617
+        },
+        "esp32h2": {
+          "cold_s": 12.107
+        },
+        "esp32s2": {
+          "cold_s": 21.747
+        },
+        "esp32s3": {
+          "cold_s": 25.28
+        }
+      }
+    },
+    "libraries/NetworkClientSecure/examples/WiFiClientShowPeerCredentials/WiFiClientShowPeerCredentials.ino": {
+      "cold_s": 36.277,
+      "by_target": {
+        "esp32": {
+          "cold_s": 6.604
+        },
+        "esp32c3": {
+          "cold_s": 4.047
+        },
+        "esp32c5": {
+          "cold_s": 4.3
+        },
+        "esp32c6": {
+          "cold_s": 4.195
+        },
+        "esp32p4": {
+          "cold_s": 4.187
+        },
+        "esp32s2": {
+          "cold_s": 6.206
+        },
+        "esp32s3": {
+          "cold_s": 6.738
+        }
+      }
+    },
+    "libraries/Ticker/examples/Blinker/Blinker.ino": {
+      "cold_s": 24.032,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.003
+        },
+        "esp32c3": {
+          "cold_s": 2.705
+        },
+        "esp32c5": {
+          "cold_s": 2.768
+        },
+        "esp32c6": {
+          "cold_s": 2.767
+        },
+        "esp32h2": {
+          "cold_s": 2.745
+        },
+        "esp32p4": {
+          "cold_s": 2.784
+        },
+        "esp32s2": {
+          "cold_s": 2.912
+        },
+        "esp32s3": {
+          "cold_s": 3.348
+        }
+      }
+    },
+    "libraries/WebServer/examples/ChunkWriting/ChunkWriting.ino": {
+      "cold_s": 59.583,
+      "by_target": {
+        "esp32": {
+          "cold_s": 10.865
+        },
+        "esp32c3": {
+          "cold_s": 7.239
+        },
+        "esp32c5": {
+          "cold_s": 7.422
+        },
+        "esp32c6": {
+          "cold_s": 7.765
+        },
+        "esp32p4": {
+          "cold_s": 7.172
+        },
+        "esp32s2": {
+          "cold_s": 9.37
+        },
+        "esp32s3": {
+          "cold_s": 9.75
+        }
+      }
+    },
+    "libraries/WebServer/examples/HttpBasicAuthSHA1/HttpBasicAuthSHA1.ino": {
+      "cold_s": 40.235,
+      "by_target": {
+        "esp32": {
+          "cold_s": 7.224
+        },
+        "esp32c3": {
+          "cold_s": 4.533
+        },
+        "esp32c5": {
+          "cold_s": 4.731
+        },
+        "esp32c6": {
+          "cold_s": 4.758
+        },
+        "esp32p4": {
+          "cold_s": 4.649
+        },
+        "esp32s2": {
+          "cold_s": 6.886
+        },
+        "esp32s3": {
+          "cold_s": 7.454
+        }
+      }
+    },
+    "libraries/WiFi/examples/WiFiBlueToothSwitch/WiFiBlueToothSwitch.ino": {
+      "cold_s": 39.027,
+      "by_target": {
+        "esp32": {
+          "cold_s": 6.089
+        },
+        "esp32c3": {
+          "cold_s": 3.798
+        },
+        "esp32c5": {
+          "cold_s": 18.954
+        },
+        "esp32c6": {
+          "cold_s": 4.046
+        },
+        "esp32s3": {
+          "cold_s": 6.14
+        }
+      }
+    },
+    "libraries/WiFi/examples/WiFiScanTime/WiFiScanTime.ino": {
+      "cold_s": 32.787,
+      "by_target": {
+        "esp32": {
+          "cold_s": 5.863
+        },
+        "esp32c3": {
+          "cold_s": 3.769
+        },
+        "esp32c5": {
+          "cold_s": 3.91
+        },
+        "esp32c6": {
+          "cold_s": 3.926
+        },
+        "esp32p4": {
+          "cold_s": 3.876
+        },
+        "esp32s2": {
+          "cold_s": 5.467
+        },
+        "esp32s3": {
+          "cold_s": 5.976
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Electrical_AC_Sensor_MultiPhase/Zigbee_Electrical_AC_Sensor_MultiPhase.ino": {
+      "cold_s": 173.841,
+      "by_target": {
+        "esp32": {
+          "cold_s": 24.811
+        },
+        "esp32c3": {
+          "cold_s": 23.556
+        },
+        "esp32c5": {
+          "cold_s": 23.987
+        },
+        "esp32c6": {
+          "cold_s": 23.957
+        },
+        "esp32h2": {
+          "cold_s": 23.817
+        },
+        "esp32s2": {
+          "cold_s": 25.878
+        },
+        "esp32s3": {
+          "cold_s": 27.835
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_On_Off_Switch/Zigbee_On_Off_Switch.ino": {
+      "cold_s": 32.094,
+      "by_target": {
+        "esp32": {
+          "cold_s": 6.221
+        },
+        "esp32c3": {
+          "cold_s": 3.734
+        },
+        "esp32c5": {
+          "cold_s": 3.875
+        },
+        "esp32c6": {
+          "cold_s": 3.853
+        },
+        "esp32h2": {
+          "cold_s": 3.773
+        },
+        "esp32s2": {
+          "cold_s": 5.095
+        },
+        "esp32s3": {
+          "cold_s": 5.543
+        }
+      }
+    },
+    "libraries/OpenThread/examples/CLI/COAP/coap_switch/coap_switch.ino": {
+      "cold_s": 20.345,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 6.768
+        },
+        "esp32c6": {
+          "cold_s": 6.838
+        },
+        "esp32h2": {
+          "cold_s": 6.739
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/CoAP/CoAP_Light_Switch/light/light.ino": {
+      "cold_s": 10.561,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 3.536
+        },
+        "esp32c6": {
+          "cold_s": 3.535
+        },
+        "esp32h2": {
+          "cold_s": 3.49
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/ThreadDNSSD/ThreadDNSSD_Query/ThreadDNSSD_Query.ino": {
+      "cold_s": 10.438,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 3.51
+        },
+        "esp32c6": {
+          "cold_s": 3.497
+        },
+        "esp32h2": {
+          "cold_s": 3.431
+        }
+      }
+    },
+    "libraries/USB/examples/Keyboard/KeyboardMessage/KeyboardMessage.ino": {
+      "cold_s": 40.285,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 13.205
+        },
+        "esp32s2": {
+          "cold_s": 12.851
+        },
+        "esp32s3": {
+          "cold_s": 14.229
+        }
+      }
+    },
+    "libraries/USB/examples/Mouse/ButtonMouseControl/ButtonMouseControl.ino": {
+      "cold_s": 11.963,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 3.597
+        },
+        "esp32s2": {
+          "cold_s": 3.93
+        },
+        "esp32s3": {
+          "cold_s": 4.436
+        }
+      }
+    },
+    "libraries/BLE/examples/Client_Gamepad/Client_Gamepad.ino": {
+      "cold_s": 214.528,
+      "by_target": {
+        "esp32": {
+          "cold_s": 33.728
+        },
+        "esp32c3": {
+          "cold_s": 29.139
+        },
+        "esp32c5": {
+          "cold_s": 29.689
+        },
+        "esp32c6": {
+          "cold_s": 29.298
+        },
+        "esp32h2": {
+          "cold_s": 28.955
+        },
+        "esp32p4": {
+          "cold_s": 31.547
+        },
+        "esp32s3": {
+          "cold_s": 32.172
+        }
+      }
+    },
+    "libraries/ESP32/examples/DeepSleep/TimerWakeUp/TimerWakeUp.ino": {
+      "cold_s": 55.351,
+      "by_target": {
+        "esp32": {
+          "cold_s": 11.304
+        },
+        "esp32c3": {
+          "cold_s": 10.858
+        },
+        "esp32c5": {
+          "cold_s": 2.802
+        },
+        "esp32c6": {
+          "cold_s": 2.774
+        },
+        "esp32p4": {
+          "cold_s": 2.798
+        },
+        "esp32s2": {
+          "cold_s": 11.866
+        },
+        "esp32s3": {
+          "cold_s": 12.949
+        }
+      }
+    },
+    "libraries/ESP32/examples/RMT/Legacy_RMT_Driver_Compatible/Legacy_RMT_Driver_Compatible.ino": {
+      "cold_s": 91.852,
+      "by_target": {
+        "esp32": {
+          "cold_s": 11.498
+        },
+        "esp32c3": {
+          "cold_s": 10.587
+        },
+        "esp32c5": {
+          "cold_s": 10.858
+        },
+        "esp32c6": {
+          "cold_s": 10.717
+        },
+        "esp32h2": {
+          "cold_s": 10.696
+        },
+        "esp32p4": {
+          "cold_s": 12.734
+        },
+        "esp32s2": {
+          "cold_s": 11.853
+        },
+        "esp32s3": {
+          "cold_s": 12.909
+        }
+      }
+    },
+    "libraries/ESP32/examples/Serial/OnReceive_Demo/OnReceive_Demo.ino": {
+      "cold_s": 24.444,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.156
+        },
+        "esp32c3": {
+          "cold_s": 2.761
+        },
+        "esp32c5": {
+          "cold_s": 2.835
+        },
+        "esp32c6": {
+          "cold_s": 2.759
+        },
+        "esp32h2": {
+          "cold_s": 2.794
+        },
+        "esp32p4": {
+          "cold_s": 2.815
+        },
+        "esp32s2": {
+          "cold_s": 2.989
+        },
+        "esp32s3": {
+          "cold_s": 3.335
+        }
+      }
+    },
+    "libraries/ESP32/examples/Timer/FunctionalInterrupt/FunctionalInterrupt.ino": {
+      "cold_s": 25.002,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.169
+        },
+        "esp32c3": {
+          "cold_s": 2.848
+        },
+        "esp32c5": {
+          "cold_s": 2.893
+        },
+        "esp32c6": {
+          "cold_s": 2.875
+        },
+        "esp32h2": {
+          "cold_s": 2.863
+        },
+        "esp32p4": {
+          "cold_s": 2.865
+        },
+        "esp32s2": {
+          "cold_s": 3.064
+        },
+        "esp32s3": {
+          "cold_s": 3.425
+        }
+      }
+    },
+    "libraries/HTTPClient/examples/CustomHeaders/CustomHeaders.ino": {
+      "cold_s": 99.594,
+      "by_target": {
+        "esp32": {
+          "cold_s": 15.684
+        },
+        "esp32c3": {
+          "cold_s": 13.034
+        },
+        "esp32c5": {
+          "cold_s": 13.335
+        },
+        "esp32c6": {
+          "cold_s": 13.19
+        },
+        "esp32p4": {
+          "cold_s": 13.194
+        },
+        "esp32s2": {
+          "cold_s": 15.242
+        },
+        "esp32s3": {
+          "cold_s": 15.915
+        }
+      }
+    },
+    "libraries/LittleFS/examples/LITTLEFS_time/LITTLEFS_time.ino": {
+      "cold_s": 41.236,
+      "by_target": {
+        "esp32": {
+          "cold_s": 7.246
+        },
+        "esp32c3": {
+          "cold_s": 4.929
+        },
+        "esp32c5": {
+          "cold_s": 5.089
+        },
+        "esp32c6": {
+          "cold_s": 5.007
+        },
+        "esp32p4": {
+          "cold_s": 4.91
+        },
+        "esp32s2": {
+          "cold_s": 6.825
+        },
+        "esp32s3": {
+          "cold_s": 7.23
+        }
+      }
+    },
+    "libraries/Matter/examples/Commissioning/MatterOnNetworkWiFi/MatterOnNetworkWiFi.ino": {
+      "cold_s": 539.799,
+      "by_target": {
+        "esp32": {
+          "cold_s": 91.98
+        },
+        "esp32c3": {
+          "cold_s": 80.507
+        },
+        "esp32c5": {
+          "cold_s": 89.522
+        },
+        "esp32c6": {
+          "cold_s": 82.022
+        },
+        "esp32s2": {
+          "cold_s": 99.827
+        },
+        "esp32s3": {
+          "cold_s": 95.941
+        }
+      }
+    },
+    "libraries/Matter/examples/GettingStarted/MatterMinimum/MatterMinimum.ino": {
+      "cold_s": 182.665,
+      "by_target": {
+        "esp32": {
+          "cold_s": 22.733
+        },
+        "esp32c3": {
+          "cold_s": 11.764
+        },
+        "esp32c5": {
+          "cold_s": 12.102
+        },
+        "esp32c6": {
+          "cold_s": 12.436
+        },
+        "esp32h2": {
+          "cold_s": 77.158
+        },
+        "esp32s2": {
+          "cold_s": 21.597
+        },
+        "esp32s3": {
+          "cold_s": 24.875
+        }
+      }
+    },
+    "libraries/Matter/examples/Sensors/MatterPressureSensor/MatterPressureSensor.ino": {
+      "cold_s": 116.374,
+      "by_target": {
+        "esp32": {
+          "cold_s": 22.447
+        },
+        "esp32c3": {
+          "cold_s": 11.709
+        },
+        "esp32c5": {
+          "cold_s": 12.096
+        },
+        "esp32c6": {
+          "cold_s": 12.378
+        },
+        "esp32h2": {
+          "cold_s": 11.914
+        },
+        "esp32s2": {
+          "cold_s": 21.305
+        },
+        "esp32s3": {
+          "cold_s": 24.525
+        }
+      }
+    },
+    "libraries/SD/examples/SD_time/SD_time.ino": {
+      "cold_s": 40.504,
+      "by_target": {
+        "esp32": {
+          "cold_s": 7.145
+        },
+        "esp32c3": {
+          "cold_s": 4.712
+        },
+        "esp32c5": {
+          "cold_s": 4.935
+        },
+        "esp32c6": {
+          "cold_s": 4.869
+        },
+        "esp32p4": {
+          "cold_s": 4.71
+        },
+        "esp32s2": {
+          "cold_s": 6.792
+        },
+        "esp32s3": {
+          "cold_s": 7.341
+        }
+      }
+    },
+    "libraries/Update/examples/OTAWebUpdater/OTAWebUpdater.ino": {
+      "cold_s": 85.878,
+      "by_target": {
+        "esp32": {
+          "cold_s": 13.769
+        },
+        "esp32c3": {
+          "cold_s": 10.906
+        },
+        "esp32c5": {
+          "cold_s": 11.647
+        },
+        "esp32c6": {
+          "cold_s": 11.251
+        },
+        "esp32p4": {
+          "cold_s": 11.442
+        },
+        "esp32s2": {
+          "cold_s": 13.122
+        },
+        "esp32s3": {
+          "cold_s": 13.741
+        }
+      }
+    },
+    "libraries/WebServer/examples/SimpleAuthentification/SimpleAuthentification.ino": {
+      "cold_s": 38.356,
+      "by_target": {
+        "esp32": {
+          "cold_s": 6.845
+        },
+        "esp32c3": {
+          "cold_s": 4.527
+        },
+        "esp32c5": {
+          "cold_s": 4.685
+        },
+        "esp32c6": {
+          "cold_s": 4.684
+        },
+        "esp32p4": {
+          "cold_s": 4.424
+        },
+        "esp32s2": {
+          "cold_s": 6.408
+        },
+        "esp32s3": {
+          "cold_s": 6.783
+        }
+      }
+    },
+    "libraries/WiFi/examples/WiFiExtender/WiFiExtender.ino": {
+      "cold_s": 33.798,
+      "by_target": {
+        "esp32": {
+          "cold_s": 6.139
+        },
+        "esp32c3": {
+          "cold_s": 3.953
+        },
+        "esp32c5": {
+          "cold_s": 4.091
+        },
+        "esp32c6": {
+          "cold_s": 4.081
+        },
+        "esp32p4": {
+          "cold_s": 3.944
+        },
+        "esp32s2": {
+          "cold_s": 5.597
+        },
+        "esp32s3": {
+          "cold_s": 5.993
+        }
+      }
+    },
+    "libraries/Wire/examples/WireSlave/WireSlave.ino": {
+      "cold_s": 25.925,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.339
+        },
+        "esp32c3": {
+          "cold_s": 2.937
+        },
+        "esp32c5": {
+          "cold_s": 3.009
+        },
+        "esp32c6": {
+          "cold_s": 3.007
+        },
+        "esp32h2": {
+          "cold_s": 2.925
+        },
+        "esp32p4": {
+          "cold_s": 2.971
+        },
+        "esp32s2": {
+          "cold_s": 3.207
+        },
+        "esp32s3": {
+          "cold_s": 3.53
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Multistate_Input_Output/Zigbee_Multistate_Input_Output.ino": {
+      "cold_s": 175.733,
+      "by_target": {
+        "esp32": {
+          "cold_s": 25.815
+        },
+        "esp32c3": {
+          "cold_s": 23.893
+        },
+        "esp32c5": {
+          "cold_s": 24.405
+        },
+        "esp32c6": {
+          "cold_s": 24.033
+        },
+        "esp32h2": {
+          "cold_s": 23.875
+        },
+        "esp32s2": {
+          "cold_s": 25.914
+        },
+        "esp32s3": {
+          "cold_s": 27.798
+        }
+      }
+    },
+    "libraries/BLE/examples/Server_secure_authorization/Server_secure_authorization.ino": {
+      "cold_s": 22.566,
+      "by_target": {
+        "esp32c3": {
+          "cold_s": 4.197
+        },
+        "esp32c5": {
+          "cold_s": 4.429
+        },
+        "esp32c6": {
+          "cold_s": 4.303
+        },
+        "esp32h2": {
+          "cold_s": 4.292
+        },
+        "esp32s3": {
+          "cold_s": 5.345
+        }
+      }
+    },
+    "libraries/ESP32/examples/AnalogOut/LEDCGammaFade/LEDCGammaFade.ino": {
+      "cold_s": 45.561,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 11.176
+        },
+        "esp32c6": {
+          "cold_s": 10.788
+        },
+        "esp32h2": {
+          "cold_s": 10.73
+        },
+        "esp32p4": {
+          "cold_s": 12.867
+        }
+      }
+    },
+    "libraries/OpenThread/examples/CLI/ThreadScan/ThreadScan.ino": {
+      "cold_s": 20.394,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 6.812
+        },
+        "esp32c6": {
+          "cold_s": 6.792
+        },
+        "esp32h2": {
+          "cold_s": 6.79
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/CoAP/CoAP_SimpleGet/server/server.ino": {
+      "cold_s": 10.634,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 3.605
+        },
+        "esp32c6": {
+          "cold_s": 3.548
+        },
+        "esp32h2": {
+          "cold_s": 3.481
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/ThreadScan/ThreadScan_Async/ThreadScan_Async.ino": {
+      "cold_s": 10.572,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 3.554
+        },
+        "esp32c6": {
+          "cold_s": 3.537
+        },
+        "esp32h2": {
+          "cold_s": 3.481
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Color_Dimmable_Light/Zigbee_Color_Dimmable_Light.ino": {
+      "cold_s": 72.177,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 24.024
+        },
+        "esp32c6": {
+          "cold_s": 24.0
+        },
+        "esp32h2": {
+          "cold_s": 24.153
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Vibration_Sensor/Zigbee_Vibration_Sensor.ino": {
+      "cold_s": 11.798,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 3.952
+        },
+        "esp32c6": {
+          "cold_s": 3.941
+        },
+        "esp32h2": {
+          "cold_s": 3.905
+        }
+      }
+    },
+    "libraries/ESP_SR/examples/Basic/Basic.ino": {
+      "cold_s": 32.386,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 15.666
+        },
+        "esp32s3": {
+          "cold_s": 16.72
+        }
+      }
+    },
+    "libraries/USB/examples/USBHostMSC_Test/USBHostMSC_Test.ino": {
+      "cold_s": 41.976,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 13.699
+        },
+        "esp32s2": {
+          "cold_s": 13.665
+        },
+        "esp32s3": {
+          "cold_s": 14.612
+        }
+      }
+    },
+    "libraries/BLE/examples/Client_Server/Client_Server.ino": {
+      "cold_s": 222.536,
+      "by_target": {
+        "esp32": {
+          "cold_s": 37.877
+        },
+        "esp32c3": {
+          "cold_s": 29.201
+        },
+        "esp32c5": {
+          "cold_s": 31.043
+        },
+        "esp32c6": {
+          "cold_s": 30.289
+        },
+        "esp32h2": {
+          "cold_s": 29.376
+        },
+        "esp32p4": {
+          "cold_s": 31.898
+        },
+        "esp32s3": {
+          "cold_s": 32.852
+        }
+      }
+    },
+    "libraries/BLE/examples/Server_secure_static_passkey/Server_secure_static_passkey.ino": {
+      "cold_s": 37.065,
+      "by_target": {
+        "esp32": {
+          "cold_s": 9.888
+        },
+        "esp32c3": {
+          "cold_s": 4.248
+        },
+        "esp32c5": {
+          "cold_s": 4.462
+        },
+        "esp32c6": {
+          "cold_s": 4.385
+        },
+        "esp32h2": {
+          "cold_s": 4.206
+        },
+        "esp32p4": {
+          "cold_s": 4.451
+        },
+        "esp32s3": {
+          "cold_s": 5.425
+        }
+      }
+    },
+    "libraries/ESP32/examples/AnalogOut/LEDCSingleChannel/LEDCSingleChannel.ino": {
+      "cold_s": 32.95,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.174
+        },
+        "esp32c3": {
+          "cold_s": 2.711
+        },
+        "esp32c5": {
+          "cold_s": 2.793
+        },
+        "esp32c6": {
+          "cold_s": 2.763
+        },
+        "esp32h2": {
+          "cold_s": 2.679
+        },
+        "esp32p4": {
+          "cold_s": 2.662
+        },
+        "esp32s2": {
+          "cold_s": 11.851
+        },
+        "esp32s3": {
+          "cold_s": 3.317
+        }
+      }
+    },
+    "libraries/ESP32/examples/DeepSleep/TouchWakeUp/TouchWakeUp.ino": {
+      "cold_s": 40.899,
+      "by_target": {
+        "esp32": {
+          "cold_s": 12.175
+        },
+        "esp32p4": {
+          "cold_s": 12.921
+        },
+        "esp32s2": {
+          "cold_s": 2.927
+        },
+        "esp32s3": {
+          "cold_s": 12.876
+        }
+      }
+    },
+    "libraries/ESP32/examples/RMT/RMTCallback/RMTCallback.ino": {
+      "cold_s": 24.272,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.131
+        },
+        "esp32c3": {
+          "cold_s": 2.724
+        },
+        "esp32c5": {
+          "cold_s": 2.854
+        },
+        "esp32c6": {
+          "cold_s": 2.815
+        },
+        "esp32h2": {
+          "cold_s": 2.742
+        },
+        "esp32p4": {
+          "cold_s": 2.788
+        },
+        "esp32s2": {
+          "cold_s": 2.926
+        },
+        "esp32s3": {
+          "cold_s": 3.292
+        }
+      }
+    },
+    "libraries/ESP32/examples/Serial/OneWire_UART_Demo/OneWire_UART_Demo.ino": {
+      "cold_s": 24.498,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.144
+        },
+        "esp32c3": {
+          "cold_s": 2.737
+        },
+        "esp32c5": {
+          "cold_s": 2.853
+        },
+        "esp32c6": {
+          "cold_s": 3.129
+        },
+        "esp32h2": {
+          "cold_s": 2.703
+        },
+        "esp32p4": {
+          "cold_s": 2.686
+        },
+        "esp32s2": {
+          "cold_s": 2.962
+        },
+        "esp32s3": {
+          "cold_s": 3.284
+        }
+      }
+    },
+    "libraries/ESP32/examples/Timer/RepeatTimer/RepeatTimer.ino": {
+      "cold_s": 24.334,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.166
+        },
+        "esp32c3": {
+          "cold_s": 2.786
+        },
+        "esp32c5": {
+          "cold_s": 2.86
+        },
+        "esp32c6": {
+          "cold_s": 2.784
+        },
+        "esp32h2": {
+          "cold_s": 2.677
+        },
+        "esp32p4": {
+          "cold_s": 2.695
+        },
+        "esp32s2": {
+          "cold_s": 3.026
+        },
+        "esp32s3": {
+          "cold_s": 3.34
+        }
+      }
+    },
+    "libraries/HTTPClient/examples/HTTPClientEnterprise/HTTPClientEnterprise.ino": {
+      "cold_s": 97.587,
+      "by_target": {
+        "esp32": {
+          "cold_s": 16.251
+        },
+        "esp32c3": {
+          "cold_s": 13.469
+        },
+        "esp32c5": {
+          "cold_s": 13.405
+        },
+        "esp32c6": {
+          "cold_s": 13.3
+        },
+        "esp32s2": {
+          "cold_s": 25.313
+        },
+        "esp32s3": {
+          "cold_s": 15.849
+        }
+      }
+    },
+    "libraries/Matter/examples/Control/MatterDimmablePlugin/MatterDimmablePlugin.ino": {
+      "cold_s": 591.591,
+      "by_target": {
+        "esp32": {
+          "cold_s": 90.024
+        },
+        "esp32c3": {
+          "cold_s": 77.015
+        },
+        "esp32c5": {
+          "cold_s": 93.272
+        },
+        "esp32c6": {
+          "cold_s": 76.069
+        },
+        "esp32h2": {
+          "cold_s": 79.348
+        },
+        "esp32s2": {
+          "cold_s": 84.708
+        },
+        "esp32s3": {
+          "cold_s": 91.155
+        }
+      }
+    },
+    "libraries/Matter/examples/GettingStarted/MatterStatus/MatterStatus.ino": {
+      "cold_s": 119.269,
+      "by_target": {
+        "esp32": {
+          "cold_s": 23.32
+        },
+        "esp32c3": {
+          "cold_s": 12.326
+        },
+        "esp32c5": {
+          "cold_s": 12.387
+        },
+        "esp32c6": {
+          "cold_s": 12.256
+        },
+        "esp32h2": {
+          "cold_s": 11.805
+        },
+        "esp32s2": {
+          "cold_s": 21.728
+        },
+        "esp32s3": {
+          "cold_s": 25.447
+        }
+      }
+    },
+    "libraries/Matter/examples/Sensors/MatterRainSensor/MatterRainSensor.ino": {
+      "cold_s": 118.096,
+      "by_target": {
+        "esp32": {
+          "cold_s": 22.936
+        },
+        "esp32c3": {
+          "cold_s": 12.408
+        },
+        "esp32c5": {
+          "cold_s": 12.326
+        },
+        "esp32c6": {
+          "cold_s": 12.369
+        },
+        "esp32h2": {
+          "cold_s": 11.84
+        },
+        "esp32s2": {
+          "cold_s": 21.455
+        },
+        "esp32s3": {
+          "cold_s": 24.762
+        }
+      }
+    },
+    "libraries/NetBIOS/examples/ESP_NBNST/ESP_NBNST.ino": {
+      "cold_s": 116.829,
+      "by_target": {
+        "esp32": {
+          "cold_s": 14.303
+        },
+        "esp32c3": {
+          "cold_s": 21.04
+        },
+        "esp32c5": {
+          "cold_s": 21.135
+        },
+        "esp32c6": {
+          "cold_s": 20.993
+        },
+        "esp32p4": {
+          "cold_s": 11.597
+        },
+        "esp32s2": {
+          "cold_s": 12.979
+        },
+        "esp32s3": {
+          "cold_s": 14.782
+        }
+      }
+    },
+    "libraries/Update/examples/SD_Update/SD_Update.ino": {
+      "cold_s": 63.838,
+      "by_target": {
+        "esp32": {
+          "cold_s": 9.528
+        },
+        "esp32c3": {
+          "cold_s": 8.276
+        },
+        "esp32c5": {
+          "cold_s": 8.309
+        },
+        "esp32c6": {
+          "cold_s": 8.294
+        },
+        "esp32h2": {
+          "cold_s": 8.175
+        },
+        "esp32p4": {
+          "cold_s": 7.053
+        },
+        "esp32s2": {
+          "cold_s": 7.399
+        },
+        "esp32s3": {
+          "cold_s": 6.804
+        }
+      }
+    },
+    "libraries/WebServer/examples/UploadHugeFile/UploadHugeFile.ino": {
+      "cold_s": 118.105,
+      "by_target": {
+        "esp32": {
+          "cold_s": 17.853
+        },
+        "esp32c3": {
+          "cold_s": 14.075
+        },
+        "esp32c5": {
+          "cold_s": 14.835
+        },
+        "esp32c6": {
+          "cold_s": 14.378
+        },
+        "esp32p4": {
+          "cold_s": 21.191
+        },
+        "esp32s2": {
+          "cold_s": 17.534
+        },
+        "esp32s3": {
+          "cold_s": 18.239
+        }
+      }
+    },
+    "libraries/WiFi/examples/WiFiIPv6/WiFiIPv6.ino": {
+      "cold_s": 33.616,
+      "by_target": {
+        "esp32": {
+          "cold_s": 6.126
+        },
+        "esp32c3": {
+          "cold_s": 3.923
+        },
+        "esp32c5": {
+          "cold_s": 4.119
+        },
+        "esp32c6": {
+          "cold_s": 4.015
+        },
+        "esp32p4": {
+          "cold_s": 3.846
+        },
+        "esp32s2": {
+          "cold_s": 5.552
+        },
+        "esp32s3": {
+          "cold_s": 6.035
+        }
+      }
+    },
+    "libraries/Wire/examples/WireSlaveFunctionalCallback/WireSlaveFunctionalCallback.ino": {
+      "cold_s": 26.012,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.408
+        },
+        "esp32c3": {
+          "cold_s": 2.935
+        },
+        "esp32c5": {
+          "cold_s": 3.081
+        },
+        "esp32c6": {
+          "cold_s": 2.992
+        },
+        "esp32h2": {
+          "cold_s": 2.934
+        },
+        "esp32p4": {
+          "cold_s": 2.961
+        },
+        "esp32s2": {
+          "cold_s": 3.18
+        },
+        "esp32s3": {
+          "cold_s": 3.521
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Color_Dimmer_Switch/Zigbee_Color_Dimmer_Switch.ino": {
+      "cold_s": 177.995,
+      "by_target": {
+        "esp32": {
+          "cold_s": 26.543
+        },
+        "esp32c3": {
+          "cold_s": 24.893
+        },
+        "esp32c5": {
+          "cold_s": 24.662
+        },
+        "esp32c6": {
+          "cold_s": 24.173
+        },
+        "esp32h2": {
+          "cold_s": 23.689
+        },
+        "esp32s2": {
+          "cold_s": 26.49
+        },
+        "esp32s3": {
+          "cold_s": 27.545
+        }
+      }
+    },
+    "libraries/OpenThread/examples/CLI/UDP/udp_sensor_collector/udp_sensor_collector.ino": {
+      "cold_s": 29.46,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 7.203
+        },
+        "esp32c6": {
+          "cold_s": 6.981
+        },
+        "esp32h2": {
+          "cold_s": 15.276
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/SimpleThreadNetwork/LeaderNode/LeaderNode.ino": {
+      "cold_s": 10.72,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 3.64
+        },
+        "esp32c6": {
+          "cold_s": 3.629
+        },
+        "esp32h2": {
+          "cold_s": 3.451
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/ThreadScan/ThreadScan_Callback/ThreadScan_Callback.ino": {
+      "cold_s": 10.585,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 3.548
+        },
+        "esp32c6": {
+          "cold_s": 3.543
+        },
+        "esp32h2": {
+          "cold_s": 3.494
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_OTA_Client/Zigbee_OTA_Client.ino": {
+      "cold_s": 73.362,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 25.661
+        },
+        "esp32c6": {
+          "cold_s": 23.871
+        },
+        "esp32h2": {
+          "cold_s": 23.83
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Wind_Speed_Sensor/Zigbee_Wind_Speed_Sensor.ino": {
+      "cold_s": 11.613,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 3.958
+        },
+        "esp32c6": {
+          "cold_s": 3.76
+        },
+        "esp32h2": {
+          "cold_s": 3.895
+        }
+      }
+    },
+    "libraries/ESP_Video/examples/dvp_camera/dvp_camera.ino": {
+      "cold_s": 28.438,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 14.125
+        },
+        "esp32s3": {
+          "cold_s": 14.313
+        }
+      }
+    },
+    "libraries/SD_MMC/examples/SD2USBMSC/SD2USBMSC.ino": {
+      "cold_s": 22.96,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 15.987
+        },
+        "esp32s3": {
+          "cold_s": 6.973
+        }
+      }
+    },
+    "libraries/USB/examples/USBHostMouse/USBHostMouse.ino": {
+      "cold_s": 43.611,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 14.596
+        },
+        "esp32s2": {
+          "cold_s": 14.345
+        },
+        "esp32s3": {
+          "cold_s": 14.67
+        }
+      }
+    },
+    "libraries/BLE/examples/Client_multiconnect/Client_multiconnect.ino": {
+      "cold_s": 209.594,
+      "by_target": {
+        "esp32": {
+          "cold_s": 32.856
+        },
+        "esp32c3": {
+          "cold_s": 28.217
+        },
+        "esp32c5": {
+          "cold_s": 28.698
+        },
+        "esp32c6": {
+          "cold_s": 28.908
+        },
+        "esp32h2": {
+          "cold_s": 28.344
+        },
+        "esp32p4": {
+          "cold_s": 30.711
+        },
+        "esp32s3": {
+          "cold_s": 31.86
+        }
+      }
+    },
+    "libraries/BLE/examples/UART/UART.ino": {
+      "cold_s": 35.896,
+      "by_target": {
+        "esp32": {
+          "cold_s": 9.549
+        },
+        "esp32c3": {
+          "cold_s": 4.116
+        },
+        "esp32c5": {
+          "cold_s": 4.255
+        },
+        "esp32c6": {
+          "cold_s": 4.196
+        },
+        "esp32h2": {
+          "cold_s": 4.164
+        },
+        "esp32p4": {
+          "cold_s": 4.396
+        },
+        "esp32s3": {
+          "cold_s": 5.22
+        }
+      }
+    },
+    "libraries/ESP32/examples/AnalogOut/LEDCSoftwareFade/LEDCSoftwareFade.ino": {
+      "cold_s": 32.135,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.969
+        },
+        "esp32c3": {
+          "cold_s": 2.636
+        },
+        "esp32c5": {
+          "cold_s": 2.719
+        },
+        "esp32c6": {
+          "cold_s": 2.661
+        },
+        "esp32h2": {
+          "cold_s": 2.646
+        },
+        "esp32p4": {
+          "cold_s": 2.65
+        },
+        "esp32s2": {
+          "cold_s": 11.678
+        },
+        "esp32s3": {
+          "cold_s": 3.176
+        }
+      }
+    },
+    "libraries/ESP32/examples/FreeRTOS/BasicMultiThreading/BasicMultiThreading.ino": {
+      "cold_s": 23.751,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.008
+        },
+        "esp32c3": {
+          "cold_s": 2.676
+        },
+        "esp32c5": {
+          "cold_s": 2.762
+        },
+        "esp32c6": {
+          "cold_s": 2.7
+        },
+        "esp32h2": {
+          "cold_s": 2.688
+        },
+        "esp32p4": {
+          "cold_s": 2.68
+        },
+        "esp32s2": {
+          "cold_s": 2.948
+        },
+        "esp32s3": {
+          "cold_s": 3.289
+        }
+      }
+    },
+    "libraries/ESP32/examples/RMT/RMTLoopback/RMTLoopback.ino": {
+      "cold_s": 23.768,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.016
+        },
+        "esp32c3": {
+          "cold_s": 2.667
+        },
+        "esp32c5": {
+          "cold_s": 2.763
+        },
+        "esp32c6": {
+          "cold_s": 2.707
+        },
+        "esp32h2": {
+          "cold_s": 2.669
+        },
+        "esp32p4": {
+          "cold_s": 2.75
+        },
+        "esp32s2": {
+          "cold_s": 2.918
+        },
+        "esp32s3": {
+          "cold_s": 3.278
+        }
+      }
+    },
+    "libraries/ESP32/examples/Serial/OneWire_UART_Two_Boards/OneWire_UART_Two_Boards.ino": {
+      "cold_s": 23.8,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.043
+        },
+        "esp32c3": {
+          "cold_s": 2.687
+        },
+        "esp32c5": {
+          "cold_s": 2.765
+        },
+        "esp32c6": {
+          "cold_s": 2.706
+        },
+        "esp32h2": {
+          "cold_s": 2.694
+        },
+        "esp32p4": {
+          "cold_s": 2.715
+        },
+        "esp32s2": {
+          "cold_s": 2.941
+        },
+        "esp32s3": {
+          "cold_s": 3.249
+        }
+      }
+    },
+    "libraries/ESP32/examples/Timer/WatchdogTimer/WatchdogTimer.ino": {
+      "cold_s": 23.737,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.971
+        },
+        "esp32c3": {
+          "cold_s": 2.658
+        },
+        "esp32c5": {
+          "cold_s": 2.757
+        },
+        "esp32c6": {
+          "cold_s": 2.672
+        },
+        "esp32h2": {
+          "cold_s": 2.769
+        },
+        "esp32p4": {
+          "cold_s": 2.693
+        },
+        "esp32s2": {
+          "cold_s": 2.95
+        },
+        "esp32s3": {
+          "cold_s": 3.267
+        }
+      }
+    },
+    "libraries/HTTPClient/examples/ReuseConnection/ReuseConnection.ino": {
+      "cold_s": 149.702,
+      "by_target": {
+        "esp32": {
+          "cold_s": 22.846
+        },
+        "esp32c3": {
+          "cold_s": 20.731
+        },
+        "esp32c5": {
+          "cold_s": 21.08
+        },
+        "esp32c6": {
+          "cold_s": 20.913
+        },
+        "esp32p4": {
+          "cold_s": 23.201
+        },
+        "esp32s2": {
+          "cold_s": 14.933
+        },
+        "esp32s3": {
+          "cold_s": 25.998
+        }
+      }
+    },
+    "libraries/Matter/examples/Control/MatterEnhancedSmartButton/MatterEnhancedSmartButton.ino": {
+      "cold_s": 598.986,
+      "by_target": {
+        "esp32": {
+          "cold_s": 89.156
+        },
+        "esp32c3": {
+          "cold_s": 79.047
+        },
+        "esp32c5": {
+          "cold_s": 85.723
+        },
+        "esp32c6": {
+          "cold_s": 78.933
+        },
+        "esp32h2": {
+          "cold_s": 74.134
+        },
+        "esp32s2": {
+          "cold_s": 98.453
+        },
+        "esp32s3": {
+          "cold_s": 93.54
+        }
+      }
+    },
+    "libraries/Matter/examples/Lighting/MatterColorLight/MatterColorLight.ino": {
+      "cold_s": 118.082,
+      "by_target": {
+        "esp32": {
+          "cold_s": 23.01
+        },
+        "esp32c3": {
+          "cold_s": 11.937
+        },
+        "esp32c5": {
+          "cold_s": 11.962
+        },
+        "esp32c6": {
+          "cold_s": 12.222
+        },
+        "esp32h2": {
+          "cold_s": 11.827
+        },
+        "esp32s2": {
+          "cold_s": 22.014
+        },
+        "esp32s3": {
+          "cold_s": 25.11
+        }
+      }
+    },
+    "libraries/Matter/examples/Sensors/MatterTemperatureSensor/MatterTemperatureSensor.ino": {
+      "cold_s": 114.358,
+      "by_target": {
+        "esp32": {
+          "cold_s": 22.18
+        },
+        "esp32c3": {
+          "cold_s": 11.372
+        },
+        "esp32c5": {
+          "cold_s": 11.582
+        },
+        "esp32c6": {
+          "cold_s": 11.93
+        },
+        "esp32h2": {
+          "cold_s": 11.666
+        },
+        "esp32s2": {
+          "cold_s": 21.427
+        },
+        "esp32s3": {
+          "cold_s": 24.201
+        }
+      }
+    },
+    "libraries/NetworkClientSecure/examples/WiFiClientInsecure/WiFiClientInsecure.ino": {
+      "cold_s": 34.872,
+      "by_target": {
+        "esp32": {
+          "cold_s": 6.414
+        },
+        "esp32c3": {
+          "cold_s": 3.94
+        },
+        "esp32c5": {
+          "cold_s": 4.146
+        },
+        "esp32c6": {
+          "cold_s": 4.009
+        },
+        "esp32p4": {
+          "cold_s": 3.976
+        },
+        "esp32s2": {
+          "cold_s": 5.998
+        },
+        "esp32s3": {
+          "cold_s": 6.389
+        }
+      }
+    },
+    "libraries/SD_MMC/examples/SDMMC_Test/SDMMC_Test.ino": {
+      "cold_s": 19.652,
+      "by_target": {
+        "esp32": {
+          "cold_s": 7.199
+        },
+        "esp32p4": {
+          "cold_s": 5.833
+        },
+        "esp32s3": {
+          "cold_s": 6.62
+        }
+      }
+    },
+    "libraries/Update/examples/Signed_OTA_Update/Signed_OTA_Update.ino": {
+      "cold_s": 182.745,
+      "by_target": {
+        "esp32": {
+          "cold_s": 26.297
+        },
+        "esp32c3": {
+          "cold_s": 24.66
+        },
+        "esp32c5": {
+          "cold_s": 24.621
+        },
+        "esp32c6": {
+          "cold_s": 24.511
+        },
+        "esp32p4": {
+          "cold_s": 26.318
+        },
+        "esp32s2": {
+          "cold_s": 27.533
+        },
+        "esp32s3": {
+          "cold_s": 28.805
+        }
+      }
+    },
+    "libraries/WebServer/examples/WebServer/WebServer.ino": {
+      "cold_s": 80.725,
+      "by_target": {
+        "esp32": {
+          "cold_s": 12.541
+        },
+        "esp32c3": {
+          "cold_s": 10.873
+        },
+        "esp32c5": {
+          "cold_s": 11.096
+        },
+        "esp32c6": {
+          "cold_s": 11.231
+        },
+        "esp32p4": {
+          "cold_s": 10.021
+        },
+        "esp32s2": {
+          "cold_s": 12.258
+        },
+        "esp32s3": {
+          "cold_s": 12.705
+        }
+      }
+    },
+    "libraries/WiFi/examples/WiFiMulti/WiFiMulti.ino": {
+      "cold_s": 33.962,
+      "by_target": {
+        "esp32": {
+          "cold_s": 6.334
+        },
+        "esp32c3": {
+          "cold_s": 3.822
+        },
+        "esp32c5": {
+          "cold_s": 3.963
+        },
+        "esp32c6": {
+          "cold_s": 3.903
+        },
+        "esp32p4": {
+          "cold_s": 3.788
+        },
+        "esp32s2": {
+          "cold_s": 5.856
+        },
+        "esp32s3": {
+          "cold_s": 6.296
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/CoAP/CoAP_CRUD/notes_server/notes_server.ino": {
+      "cold_s": 28.115,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 6.72
+        },
+        "esp32c6": {
+          "cold_s": 6.611
+        },
+        "esp32h2": {
+          "cold_s": 14.784
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/ThreadCommissioning/JoinerNode/JoinerNode.ino": {
+      "cold_s": 10.417,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 3.476
+        },
+        "esp32c6": {
+          "cold_s": 3.42
+        },
+        "esp32h2": {
+          "cold_s": 3.521
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/UDP/UDP_SensorNetwork/sensor_collector/sensor_collector.ino": {
+      "cold_s": 10.687,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 3.548
+        },
+        "esp32c6": {
+          "cold_s": 3.588
+        },
+        "esp32h2": {
+          "cold_s": 3.551
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Contact_Switch/Zigbee_Contact_Switch.ino": {
+      "cold_s": 71.632,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 23.757
+        },
+        "esp32c6": {
+          "cold_s": 24.18
+        },
+        "esp32h2": {
+          "cold_s": 23.695
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Occupancy_Sensor/Zigbee_Occupancy_Sensor.ino": {
+      "cold_s": 11.265,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 3.783
+        },
+        "esp32c6": {
+          "cold_s": 3.774
+        },
+        "esp32h2": {
+          "cold_s": 3.708
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Window_Covering/Zigbee_Window_Covering.ino": {
+      "cold_s": 11.164,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 3.751
+        },
+        "esp32c6": {
+          "cold_s": 3.737
+        },
+        "esp32h2": {
+          "cold_s": 3.676
+        }
+      }
+    },
+    "libraries/ESP_Video/examples/mipi_csi_camera/mipi_csi_camera.ino": {
+      "cold_s": 13.8,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 13.8
+        }
+      }
+    },
+    "libraries/USB/examples/AudioCard/AudioCard.ino": {
+      "cold_s": 43.451,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 13.925
+        },
+        "esp32s2": {
+          "cold_s": 14.985
+        },
+        "esp32s3": {
+          "cold_s": 14.541
+        }
+      }
+    },
+    "libraries/USB/examples/Gamepad/Gamepad.ino": {
+      "cold_s": 11.967,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 3.544
+        },
+        "esp32s2": {
+          "cold_s": 4.03
+        },
+        "esp32s3": {
+          "cold_s": 4.393
+        }
+      }
+    },
+    "libraries/USB/examples/MIDI/MidiMultiChannel/MidiMultiChannel.ino": {
+      "cold_s": 12.134,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 3.544
+        },
+        "esp32s2": {
+          "cold_s": 4.09
+        },
+        "esp32s3": {
+          "cold_s": 4.5
+        }
+      }
+    },
+    "libraries/USB/examples/USBSerial/USBSerial.ino": {
+      "cold_s": 9.163,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 2.629
+        },
+        "esp32s2": {
+          "cold_s": 3.075
+        },
+        "esp32s3": {
+          "cold_s": 3.459
+        }
+      }
+    },
+    "libraries/BLE/examples/Client_secure_static_passkey/Client_secure_static_passkey.ino": {
+      "cold_s": 157.483,
+      "by_target": {
+        "esp32": {
+          "cold_s": 25.383
+        },
+        "esp32c3": {
+          "cold_s": 21.516
+        },
+        "esp32c5": {
+          "cold_s": 21.614
+        },
+        "esp32c6": {
+          "cold_s": 21.54
+        },
+        "esp32h2": {
+          "cold_s": 21.176
+        },
+        "esp32p4": {
+          "cold_s": 22.741
+        },
+        "esp32s3": {
+          "cold_s": 23.513
+        }
+      }
+    },
+    "libraries/BLE/examples/Write/Write.ino": {
+      "cold_s": 28.811,
+      "by_target": {
+        "esp32": {
+          "cold_s": 7.828
+        },
+        "esp32c3": {
+          "cold_s": 3.274
+        },
+        "esp32c5": {
+          "cold_s": 3.411
+        },
+        "esp32c6": {
+          "cold_s": 3.339
+        },
+        "esp32h2": {
+          "cold_s": 3.29
+        },
+        "esp32p4": {
+          "cold_s": 3.527
+        },
+        "esp32s3": {
+          "cold_s": 4.142
+        }
+      }
+    },
+    "libraries/BluetoothSerial/examples/SerialToSerialBTM/SerialToSerialBTM.ino": {
+      "cold_s": 7.736,
+      "by_target": {
+        "esp32": {
+          "cold_s": 7.736
+        }
+      }
+    },
+    "libraries/Console/examples/ConsoleWiFi/ConsoleWiFi.ino": {
+      "cold_s": 116.059,
+      "by_target": {
+        "esp32": {
+          "cold_s": 16.726
+        },
+        "esp32c3": {
+          "cold_s": 15.297
+        },
+        "esp32c5": {
+          "cold_s": 15.841
+        },
+        "esp32c6": {
+          "cold_s": 15.425
+        },
+        "esp32p4": {
+          "cold_s": 16.896
+        },
+        "esp32s2": {
+          "cold_s": 17.332
+        },
+        "esp32s3": {
+          "cold_s": 18.542
+        }
+      }
+    },
+    "libraries/ESP32/examples/CI/CIBoardsTest/CIBoardsTest.ino": {
+      "cold_s": 22.006,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.553
+        },
+        "esp32c3": {
+          "cold_s": 2.509
+        },
+        "esp32c5": {
+          "cold_s": 2.607
+        },
+        "esp32c6": {
+          "cold_s": 2.584
+        },
+        "esp32h2": {
+          "cold_s": 2.515
+        },
+        "esp32p4": {
+          "cold_s": 2.531
+        },
+        "esp32s2": {
+          "cold_s": 2.729
+        },
+        "esp32s3": {
+          "cold_s": 2.978
+        }
+      }
+    },
+    "libraries/ESP32/examples/GPIO/GPIOInterrupt/GPIOInterrupt.ino": {
+      "cold_s": 18.936,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.15
+        },
+        "esp32c3": {
+          "cold_s": 2.142
+        },
+        "esp32c5": {
+          "cold_s": 2.21
+        },
+        "esp32c6": {
+          "cold_s": 2.182
+        },
+        "esp32h2": {
+          "cold_s": 2.159
+        },
+        "esp32p4": {
+          "cold_s": 2.16
+        },
+        "esp32s2": {
+          "cold_s": 2.328
+        },
+        "esp32s3": {
+          "cold_s": 2.605
+        }
+      }
+    },
+    "libraries/ESP32/examples/Serial/BaudRateDetect_Demo/BaudRateDetect_Demo.ino": {
+      "cold_s": 18.816,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.138
+        },
+        "esp32c3": {
+          "cold_s": 2.146
+        },
+        "esp32c5": {
+          "cold_s": 2.2
+        },
+        "esp32c6": {
+          "cold_s": 2.17
+        },
+        "esp32h2": {
+          "cold_s": 2.146
+        },
+        "esp32p4": {
+          "cold_s": 2.164
+        },
+        "esp32s2": {
+          "cold_s": 2.292
+        },
+        "esp32s3": {
+          "cold_s": 2.56
+        }
+      }
+    },
+    "libraries/ESP32/examples/Serial/print64bitVariable/print64bitVariable.ino": {
+      "cold_s": 18.887,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.166
+        },
+        "esp32c3": {
+          "cold_s": 2.138
+        },
+        "esp32c5": {
+          "cold_s": 2.203
+        },
+        "esp32c6": {
+          "cold_s": 2.174
+        },
+        "esp32h2": {
+          "cold_s": 2.164
+        },
+        "esp32p4": {
+          "cold_s": 2.168
+        },
+        "esp32s2": {
+          "cold_s": 2.298
+        },
+        "esp32s3": {
+          "cold_s": 2.576
+        }
+      }
+    },
+    "libraries/ESP_I2S/examples/Simple_tone/Simple_tone.ino": {
+      "cold_s": 27.118,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.474
+        },
+        "esp32c3": {
+          "cold_s": 2.431
+        },
+        "esp32c5": {
+          "cold_s": 2.482
+        },
+        "esp32c6": {
+          "cold_s": 2.446
+        },
+        "esp32h2": {
+          "cold_s": 8.336
+        },
+        "esp32p4": {
+          "cold_s": 2.459
+        },
+        "esp32s2": {
+          "cold_s": 2.631
+        },
+        "esp32s3": {
+          "cold_s": 2.859
+        }
+      }
+    },
+    "libraries/FFat/examples/FFat_Test/FFat_Test.ino": {
+      "cold_s": 23.452,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.655
+        },
+        "esp32c3": {
+          "cold_s": 2.604
+        },
+        "esp32c5": {
+          "cold_s": 2.726
+        },
+        "esp32c6": {
+          "cold_s": 2.642
+        },
+        "esp32h2": {
+          "cold_s": 3.201
+        },
+        "esp32p4": {
+          "cold_s": 2.695
+        },
+        "esp32s2": {
+          "cold_s": 2.83
+        },
+        "esp32s3": {
+          "cold_s": 3.099
+        }
+      }
+    },
+    "libraries/HTTPUpdateServer/examples/WebUpdater/WebUpdater.ino": {
+      "cold_s": 61.85,
+      "by_target": {
+        "esp32": {
+          "cold_s": 9.77
+        },
+        "esp32c3": {
+          "cold_s": 7.973
+        },
+        "esp32c5": {
+          "cold_s": 8.279
+        },
+        "esp32c6": {
+          "cold_s": 8.028
+        },
+        "esp32p4": {
+          "cold_s": 7.981
+        },
+        "esp32s2": {
+          "cold_s": 9.59
+        },
+        "esp32s3": {
+          "cold_s": 10.229
+        }
+      }
+    },
+    "libraries/Hash/examples/SHA3/SHA3.ino": {
+      "cold_s": 20.086,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.204
+        },
+        "esp32c3": {
+          "cold_s": 2.186
+        },
+        "esp32c5": {
+          "cold_s": 2.266
+        },
+        "esp32c6": {
+          "cold_s": 2.228
+        },
+        "esp32h2": {
+          "cold_s": 2.993
+        },
+        "esp32p4": {
+          "cold_s": 2.227
+        },
+        "esp32s2": {
+          "cold_s": 2.358
+        },
+        "esp32s3": {
+          "cold_s": 2.624
+        }
+      }
+    },
+    "libraries/Matter/examples/Control/MatterFan/MatterFan.ino": {
+      "cold_s": 457.862,
+      "by_target": {
+        "esp32": {
+          "cold_s": 68.377
+        },
+        "esp32c3": {
+          "cold_s": 59.108
+        },
+        "esp32c5": {
+          "cold_s": 65.917
+        },
+        "esp32c6": {
+          "cold_s": 60.052
+        },
+        "esp32h2": {
+          "cold_s": 57.182
+        },
+        "esp32s2": {
+          "cold_s": 75.005
+        },
+        "esp32s3": {
+          "cold_s": 72.221
+        }
+      }
+    },
+    "libraries/Matter/examples/Lighting/MatterComposedLights/MatterComposedLights.ino": {
+      "cold_s": 94.025,
+      "by_target": {
+        "esp32": {
+          "cold_s": 17.882
+        },
+        "esp32c3": {
+          "cold_s": 9.398
+        },
+        "esp32c5": {
+          "cold_s": 9.715
+        },
+        "esp32c6": {
+          "cold_s": 10.165
+        },
+        "esp32h2": {
+          "cold_s": 9.592
+        },
+        "esp32s2": {
+          "cold_s": 17.389
+        },
+        "esp32s3": {
+          "cold_s": 19.884
+        }
+      }
+    },
+    "libraries/Matter/examples/Sensors/MatterWaterFreezeDetector/MatterWaterFreezeDetector.ino": {
+      "cold_s": 91.72,
+      "by_target": {
+        "esp32": {
+          "cold_s": 17.296
+        },
+        "esp32c3": {
+          "cold_s": 9.258
+        },
+        "esp32c5": {
+          "cold_s": 9.539
+        },
+        "esp32c6": {
+          "cold_s": 9.895
+        },
+        "esp32h2": {
+          "cold_s": 9.502
+        },
+        "esp32s2": {
+          "cold_s": 16.867
+        },
+        "esp32s3": {
+          "cold_s": 19.363
+        }
+      }
+    },
+    "libraries/PPP/examples/PPP_Basic/PPP_Basic.ino": {
+      "cold_s": 28.911,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.217
+        },
+        "esp32c3": {
+          "cold_s": 3.23
+        },
+        "esp32c5": {
+          "cold_s": 3.054
+        },
+        "esp32c6": {
+          "cold_s": 3.005
+        },
+        "esp32h2": {
+          "cold_s": 5.062
+        },
+        "esp32p4": {
+          "cold_s": 3.045
+        },
+        "esp32s2": {
+          "cold_s": 3.49
+        },
+        "esp32s3": {
+          "cold_s": 3.808
+        }
+      }
+    },
+    "libraries/Ticker/examples/TickerParameter/TickerParameter.ino": {
+      "cold_s": 19.26,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.169
+        },
+        "esp32c3": {
+          "cold_s": 2.195
+        },
+        "esp32c5": {
+          "cold_s": 2.293
+        },
+        "esp32c6": {
+          "cold_s": 2.214
+        },
+        "esp32h2": {
+          "cold_s": 2.208
+        },
+        "esp32p4": {
+          "cold_s": 2.196
+        },
+        "esp32s2": {
+          "cold_s": 2.354
+        },
+        "esp32s3": {
+          "cold_s": 2.631
+        }
+      }
+    },
+    "libraries/WebServer/examples/Middleware/Middleware.ino": {
+      "cold_s": 26.145,
+      "by_target": {
+        "esp32": {
+          "cold_s": 5.228
+        },
+        "esp32c3": {
+          "cold_s": 3.513
+        },
+        "esp32c5": {
+          "cold_s": 3.61
+        },
+        "esp32c6": {
+          "cold_s": 3.534
+        },
+        "esp32s2": {
+          "cold_s": 4.932
+        },
+        "esp32s3": {
+          "cold_s": 5.328
+        }
+      }
+    },
+    "libraries/WiFi/examples/WiFiClientBasic/WiFiClientBasic.ino": {
+      "cold_s": 27.402,
+      "by_target": {
+        "esp32": {
+          "cold_s": 5.005
+        },
+        "esp32c3": {
+          "cold_s": 3.097
+        },
+        "esp32c5": {
+          "cold_s": 3.257
+        },
+        "esp32c6": {
+          "cold_s": 3.208
+        },
+        "esp32p4": {
+          "cold_s": 3.037
+        },
+        "esp32s2": {
+          "cold_s": 4.75
+        },
+        "esp32s3": {
+          "cold_s": 5.048
+        }
+      }
+    },
+    "libraries/WiFi/examples/WiFiTelnetToSerial/WiFiTelnetToSerial.ino": {
+      "cold_s": 27.797,
+      "by_target": {
+        "esp32": {
+          "cold_s": 5.065
+        },
+        "esp32c3": {
+          "cold_s": 3.157
+        },
+        "esp32c5": {
+          "cold_s": 3.285
+        },
+        "esp32c6": {
+          "cold_s": 3.244
+        },
+        "esp32p4": {
+          "cold_s": 3.065
+        },
+        "esp32s2": {
+          "cold_s": 4.767
+        },
+        "esp32s3": {
+          "cold_s": 5.214
+        }
+      }
+    },
+    "libraries/OpenThread/examples/CLI/SimpleNode/SimpleNode.ino": {
+      "cold_s": 15.789,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 5.345
+        },
+        "esp32c6": {
+          "cold_s": 5.271
+        },
+        "esp32h2": {
+          "cold_s": 5.173
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/CoAP/CoAP_Secure/secure_client/secure_client.ino": {
+      "cold_s": 8.502,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 2.848
+        },
+        "esp32c6": {
+          "cold_s": 2.826
+        },
+        "esp32h2": {
+          "cold_s": 2.828
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/ThreadDNSSD/ThreadDNSSD_Query_Callback/ThreadDNSSD_Query_Callback.ino": {
+      "cold_s": 8.494,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 2.875
+        },
+        "esp32c6": {
+          "cold_s": 2.814
+        },
+        "esp32h2": {
+          "cold_s": 2.805
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Dimmable_Light/Zigbee_Dimmable_Light.ino": {
+      "cold_s": 52.337,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 17.544
+        },
+        "esp32c6": {
+          "cold_s": 17.515
+        },
+        "esp32h2": {
+          "cold_s": 17.278
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_On_Off_Light/Zigbee_On_Off_Light.ino": {
+      "cold_s": 9.062,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 3.013
+        },
+        "esp32c6": {
+          "cold_s": 3.081
+        },
+        "esp32h2": {
+          "cold_s": 2.968
+        }
+      }
+    },
+    "libraries/USB/examples/Keyboard/KeyboardSerial/KeyboardSerial.ino": {
+      "cold_s": 30.207,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 9.77
+        },
+        "esp32s2": {
+          "cold_s": 9.831
+        },
+        "esp32s3": {
+          "cold_s": 10.606
+        }
+      }
+    },
+    "libraries/USB/examples/USBHostCDC_MSC_HID/USBHostCDC_MSC_HID.ino": {
+      "cold_s": 10.831,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 3.304
+        },
+        "esp32s2": {
+          "cold_s": 3.598
+        },
+        "esp32s3": {
+          "cold_s": 3.929
+        }
+      }
+    },
+    "libraries/BLE/examples/EddystoneTLM_Beacon/EddystoneTLM_Beacon.ino": {
+      "cold_s": 210.865,
+      "by_target": {
+        "esp32": {
+          "cold_s": 34.303
+        },
+        "esp32c3": {
+          "cold_s": 28.515
+        },
+        "esp32c5": {
+          "cold_s": 28.746
+        },
+        "esp32c6": {
+          "cold_s": 28.783
+        },
+        "esp32h2": {
+          "cold_s": 28.256
+        },
+        "esp32p4": {
+          "cold_s": 30.823
+        },
+        "esp32s3": {
+          "cold_s": 31.439
+        }
+      }
+    },
+    "libraries/BLE/examples/iBeacon/iBeacon.ino": {
+      "cold_s": 36.231,
+      "by_target": {
+        "esp32": {
+          "cold_s": 9.779
+        },
+        "esp32c3": {
+          "cold_s": 4.101
+        },
+        "esp32c5": {
+          "cold_s": 4.305
+        },
+        "esp32c6": {
+          "cold_s": 4.215
+        },
+        "esp32h2": {
+          "cold_s": 4.164
+        },
+        "esp32p4": {
+          "cold_s": 4.438
+        },
+        "esp32s3": {
+          "cold_s": 5.229
+        }
+      }
+    },
+    "libraries/BluetoothSerial/examples/DiscoverConnect/DiscoverConnect.ino": {
+      "cold_s": 10.182,
+      "by_target": {
+        "esp32": {
+          "cold_s": 10.182
+        }
+      }
+    },
+    "libraries/Console/examples/ConsoleBasic/ConsoleBasic.ino": {
+      "cold_s": 44.09,
+      "by_target": {
+        "esp32": {
+          "cold_s": 5.399
+        },
+        "esp32c3": {
+          "cold_s": 3.942
+        },
+        "esp32c5": {
+          "cold_s": 4.095
+        },
+        "esp32c6": {
+          "cold_s": 4.094
+        },
+        "esp32h2": {
+          "cold_s": 4.103
+        },
+        "esp32p4": {
+          "cold_s": 4.13
+        },
+        "esp32s2": {
+          "cold_s": 13.774
+        },
+        "esp32s3": {
+          "cold_s": 4.553
+        }
+      }
+    },
+    "libraries/ESP32/examples/AnalogOut/ledcFrequency/ledcFrequency.ino": {
+      "cold_s": 25.401,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.246
+        },
+        "esp32c3": {
+          "cold_s": 2.878
+        },
+        "esp32c5": {
+          "cold_s": 2.964
+        },
+        "esp32c6": {
+          "cold_s": 2.899
+        },
+        "esp32h2": {
+          "cold_s": 2.886
+        },
+        "esp32p4": {
+          "cold_s": 2.986
+        },
+        "esp32s2": {
+          "cold_s": 3.106
+        },
+        "esp32s3": {
+          "cold_s": 3.436
+        }
+      }
+    },
+    "libraries/ESP32/examples/FreeRTOS/Queue/Queue.ino": {
+      "cold_s": 23.568,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.993
+        },
+        "esp32c3": {
+          "cold_s": 2.664
+        },
+        "esp32c5": {
+          "cold_s": 2.738
+        },
+        "esp32c6": {
+          "cold_s": 2.685
+        },
+        "esp32h2": {
+          "cold_s": 2.735
+        },
+        "esp32p4": {
+          "cold_s": 2.686
+        },
+        "esp32s2": {
+          "cold_s": 2.866
+        },
+        "esp32s3": {
+          "cold_s": 3.201
+        }
+      }
+    },
+    "libraries/ESP32/examples/RMT/RMTWrite_RGB_LED/RMTWrite_RGB_LED.ino": {
+      "cold_s": 23.614,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.005
+        },
+        "esp32c3": {
+          "cold_s": 2.654
+        },
+        "esp32c5": {
+          "cold_s": 2.73
+        },
+        "esp32c6": {
+          "cold_s": 2.686
+        },
+        "esp32h2": {
+          "cold_s": 2.685
+        },
+        "esp32p4": {
+          "cold_s": 2.719
+        },
+        "esp32s2": {
+          "cold_s": 2.896
+        },
+        "esp32s3": {
+          "cold_s": 3.239
+        }
+      }
+    },
+    "libraries/ESP32/examples/Serial/RxFIFOFull_Demo/RxFIFOFull_Demo.ino": {
+      "cold_s": 23.554,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.98
+        },
+        "esp32c3": {
+          "cold_s": 2.65
+        },
+        "esp32c5": {
+          "cold_s": 2.737
+        },
+        "esp32c6": {
+          "cold_s": 2.698
+        },
+        "esp32h2": {
+          "cold_s": 2.677
+        },
+        "esp32p4": {
+          "cold_s": 2.719
+        },
+        "esp32s2": {
+          "cold_s": 2.868
+        },
+        "esp32s3": {
+          "cold_s": 3.225
+        }
+      }
+    },
+    "libraries/ESP32/examples/Touch/TouchInterrupt/TouchInterrupt.ino": {
+      "cold_s": 39.317,
+      "by_target": {
+        "esp32": {
+          "cold_s": 11.153
+        },
+        "esp32p4": {
+          "cold_s": 12.506
+        },
+        "esp32s2": {
+          "cold_s": 2.9
+        },
+        "esp32s3": {
+          "cold_s": 12.758
+        }
+      }
+    },
+    "libraries/ESPmDNS/examples/mDNS_Web_Server/mDNS_Web_Server.ino": {
+      "cold_s": 108.607,
+      "by_target": {
+        "esp32": {
+          "cold_s": 13.106
+        },
+        "esp32c3": {
+          "cold_s": 18.869
+        },
+        "esp32c5": {
+          "cold_s": 19.747
+        },
+        "esp32c6": {
+          "cold_s": 19.783
+        },
+        "esp32p4": {
+          "cold_s": 10.97
+        },
+        "esp32s2": {
+          "cold_s": 12.649
+        },
+        "esp32s3": {
+          "cold_s": 13.483
+        }
+      }
+    },
+    "libraries/Hash/examples/HEX/HEX.ino": {
+      "cold_s": 23.552,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.981
+        },
+        "esp32c3": {
+          "cold_s": 2.652
+        },
+        "esp32c5": {
+          "cold_s": 2.731
+        },
+        "esp32c6": {
+          "cold_s": 2.674
+        },
+        "esp32h2": {
+          "cold_s": 2.663
+        },
+        "esp32p4": {
+          "cold_s": 2.743
+        },
+        "esp32s2": {
+          "cold_s": 2.875
+        },
+        "esp32s3": {
+          "cold_s": 3.233
+        }
+      }
+    },
+    "libraries/Matter/examples/Control/MatterOnOffPlugin/MatterOnOffPlugin.ino": {
+      "cold_s": 595.687,
+      "by_target": {
+        "esp32": {
+          "cold_s": 88.737
+        },
+        "esp32c3": {
+          "cold_s": 77.139
+        },
+        "esp32c5": {
+          "cold_s": 86.71
+        },
+        "esp32c6": {
+          "cold_s": 78.641
+        },
+        "esp32h2": {
+          "cold_s": 74.59
+        },
+        "esp32s2": {
+          "cold_s": 97.315
+        },
+        "esp32s3": {
+          "cold_s": 92.555
+        }
+      }
+    },
+    "libraries/Matter/examples/Lighting/MatterDimmableLight/MatterDimmableLight.ino": {
+      "cold_s": 117.049,
+      "by_target": {
+        "esp32": {
+          "cold_s": 22.901
+        },
+        "esp32c3": {
+          "cold_s": 11.503
+        },
+        "esp32c5": {
+          "cold_s": 11.939
+        },
+        "esp32c6": {
+          "cold_s": 12.325
+        },
+        "esp32h2": {
+          "cold_s": 11.857
+        },
+        "esp32s2": {
+          "cold_s": 21.653
+        },
+        "esp32s3": {
+          "cold_s": 24.871
+        }
+      }
+    },
+    "libraries/Matter/examples/Sensors/MatterWaterLeakDetector/MatterWaterLeakDetector.ino": {
+      "cold_s": 114.269,
+      "by_target": {
+        "esp32": {
+          "cold_s": 22.196
+        },
+        "esp32c3": {
+          "cold_s": 11.299
+        },
+        "esp32c5": {
+          "cold_s": 11.632
+        },
+        "esp32c6": {
+          "cold_s": 12.062
+        },
+        "esp32h2": {
+          "cold_s": 11.645
+        },
+        "esp32s2": {
+          "cold_s": 21.161
+        },
+        "esp32s3": {
+          "cold_s": 24.274
+        }
+      }
+    },
+    "libraries/NetworkClientSecure/examples/WiFiClientSecure/WiFiClientSecure.ino": {
+      "cold_s": 54.161,
+      "by_target": {
+        "esp32": {
+          "cold_s": 7.168
+        },
+        "esp32c3": {
+          "cold_s": 4.658
+        },
+        "esp32c5": {
+          "cold_s": 11.972
+        },
+        "esp32c6": {
+          "cold_s": 4.758
+        },
+        "esp32p4": {
+          "cold_s": 11.823
+        },
+        "esp32s2": {
+          "cold_s": 6.752
+        },
+        "esp32s3": {
+          "cold_s": 7.03
+        }
+      }
+    },
+    "libraries/SPI/examples/SPI_Multiple_Buses/SPI_Multiple_Buses.ino": {
+      "cold_s": 24.521,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.113
+        },
+        "esp32c3": {
+          "cold_s": 2.765
+        },
+        "esp32c5": {
+          "cold_s": 2.857
+        },
+        "esp32c6": {
+          "cold_s": 2.823
+        },
+        "esp32h2": {
+          "cold_s": 2.8
+        },
+        "esp32p4": {
+          "cold_s": 2.803
+        },
+        "esp32s2": {
+          "cold_s": 3.018
+        },
+        "esp32s3": {
+          "cold_s": 3.342
+        }
+      }
+    },
+    "libraries/WebServer/examples/AdvancedWebServer/AdvancedWebServer.ino": {
+      "cold_s": 73.497,
+      "by_target": {
+        "esp32": {
+          "cold_s": 12.239
+        },
+        "esp32c3": {
+          "cold_s": 10.054
+        },
+        "esp32c5": {
+          "cold_s": 10.331
+        },
+        "esp32c6": {
+          "cold_s": 10.2
+        },
+        "esp32p4": {
+          "cold_s": 8.839
+        },
+        "esp32s2": {
+          "cold_s": 10.624
+        },
+        "esp32s3": {
+          "cold_s": 11.21
+        }
+      }
+    },
+    "libraries/WebServer/examples/HttpAdvancedAuth/HttpAdvancedAuth.ino": {
+      "cold_s": 48.329,
+      "by_target": {
+        "esp32": {
+          "cold_s": 8.493
+        },
+        "esp32c3": {
+          "cold_s": 5.743
+        },
+        "esp32c5": {
+          "cold_s": 5.891
+        },
+        "esp32c6": {
+          "cold_s": 5.931
+        },
+        "esp32p4": {
+          "cold_s": 5.881
+        },
+        "esp32s2": {
+          "cold_s": 7.944
+        },
+        "esp32s3": {
+          "cold_s": 8.446
+        }
+      }
+    },
+    "libraries/WiFi/examples/FTM/FTM_Responder/FTM_Responder.ino": {
+      "cold_s": 32.527,
+      "by_target": {
+        "esp32": {
+          "cold_s": 5.929
+        },
+        "esp32c3": {
+          "cold_s": 3.761
+        },
+        "esp32c5": {
+          "cold_s": 3.914
+        },
+        "esp32c6": {
+          "cold_s": 3.861
+        },
+        "esp32p4": {
+          "cold_s": 3.735
+        },
+        "esp32s2": {
+          "cold_s": 5.497
+        },
+        "esp32s3": {
+          "cold_s": 5.83
+        }
+      }
+    },
+    "libraries/WiFi/examples/WiFiMultiEnterprise/WiFiMultiEnterprise.ino": {
+      "cold_s": 34.103,
+      "by_target": {
+        "esp32": {
+          "cold_s": 6.383
+        },
+        "esp32c3": {
+          "cold_s": 3.861
+        },
+        "esp32c5": {
+          "cold_s": 3.976
+        },
+        "esp32c6": {
+          "cold_s": 3.9
+        },
+        "esp32p4": {
+          "cold_s": 3.797
+        },
+        "esp32s2": {
+          "cold_s": 5.878
+        },
+        "esp32s3": {
+          "cold_s": 6.308
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Electrical_AC_Sensor/Zigbee_Electrical_AC_Sensor.ino": {
+      "cold_s": 171.581,
+      "by_target": {
+        "esp32": {
+          "cold_s": 25.242
+        },
+        "esp32c3": {
+          "cold_s": 23.171
+        },
+        "esp32c5": {
+          "cold_s": 23.834
+        },
+        "esp32c6": {
+          "cold_s": 23.641
+        },
+        "esp32h2": {
+          "cold_s": 23.335
+        },
+        "esp32s2": {
+          "cold_s": 25.362
+        },
+        "esp32s3": {
+          "cold_s": 26.996
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_On_Off_MultiSwitch/Zigbee_On_Off_MultiSwitch.ino": {
+      "cold_s": 32.894,
+      "by_target": {
+        "esp32": {
+          "cold_s": 6.368
+        },
+        "esp32c3": {
+          "cold_s": 4.06
+        },
+        "esp32c5": {
+          "cold_s": 3.946
+        },
+        "esp32c6": {
+          "cold_s": 3.924
+        },
+        "esp32h2": {
+          "cold_s": 3.864
+        },
+        "esp32s2": {
+          "cold_s": 5.148
+        },
+        "esp32s3": {
+          "cold_s": 5.584
+        }
+      }
+    },
+    "libraries/OpenThread/examples/CLI/COAP/coap_lamp/coap_lamp.ino": {
+      "cold_s": 29.2,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 7.229
+        },
+        "esp32c6": {
+          "cold_s": 6.722
+        },
+        "esp32h2": {
+          "cold_s": 15.249
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/CoAP/CoAP_Greenhouse/greenhouse_server/greenhouse_server.ino": {
+      "cold_s": 10.546,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 3.562
+        },
+        "esp32c6": {
+          "cold_s": 3.501
+        },
+        "esp32h2": {
+          "cold_s": 3.483
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/ThreadDNSSD/ThreadDNSSD_Advertise_Callback/ThreadDNSSD_Advertise_Callback.ino": {
+      "cold_s": 10.354,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 3.491
+        },
+        "esp32c6": {
+          "cold_s": 3.449
+        },
+        "esp32h2": {
+          "cold_s": 3.414
+        }
+      }
+    },
+    "libraries/USB/examples/CompositeDevice/CompositeDevice.ino": {
+      "cold_s": 42.912,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 14.418
+        },
+        "esp32s2": {
+          "cold_s": 13.279
+        },
+        "esp32s3": {
+          "cold_s": 15.215
+        }
+      }
+    },
+    "libraries/USB/examples/Keyboard/KeyboardLogout/KeyboardLogout.ino": {
+      "cold_s": 11.91,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 3.57
+        },
+        "esp32s2": {
+          "cold_s": 3.986
+        },
+        "esp32s3": {
+          "cold_s": 4.354
+        }
+      }
+    },
+    "libraries/USB/examples/MIDI/ReceiveMidi/ReceiveMidi.ino": {
+      "cold_s": 12.07,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 3.587
+        },
+        "esp32s2": {
+          "cold_s": 4.025
+        },
+        "esp32s3": {
+          "cold_s": 4.458
+        }
+      }
+    },
+    "libraries/ArduinoOTA/examples/SignedOTA/SignedOTA.ino": {
+      "cold_s": 115.48,
+      "by_target": {
+        "esp32": {
+          "cold_s": 17.966
+        },
+        "esp32c3": {
+          "cold_s": 14.17
+        },
+        "esp32c5": {
+          "cold_s": 16.164
+        },
+        "esp32c6": {
+          "cold_s": 15.535
+        },
+        "esp32p4": {
+          "cold_s": 16.346
+        },
+        "esp32s2": {
+          "cold_s": 17.273
+        },
+        "esp32s3": {
+          "cold_s": 18.026
+        }
+      }
+    },
+    "libraries/AsyncUDP/examples/AsyncUDPMulticastServer/AsyncUDPMulticastServer.ino": {
+      "cold_s": 94.008,
+      "by_target": {
+        "esp32": {
+          "cold_s": 13.384
+        },
+        "esp32c3": {
+          "cold_s": 11.904
+        },
+        "esp32c5": {
+          "cold_s": 13.294
+        },
+        "esp32c6": {
+          "cold_s": 12.675
+        },
+        "esp32p4": {
+          "cold_s": 13.711
+        },
+        "esp32s2": {
+          "cold_s": 14.108
+        },
+        "esp32s3": {
+          "cold_s": 14.932
+        }
+      }
+    },
+    "libraries/BluetoothSerial/examples/SerialToSerialBT/SerialToSerialBT.ino": {
+      "cold_s": 11.574,
+      "by_target": {
+        "esp32": {
+          "cold_s": 11.574
+        }
+      }
+    },
+    "libraries/Console/examples/ConsoleSysInfo/ConsoleSysInfo.ino": {
+      "cold_s": 29.103,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.545
+        },
+        "esp32c3": {
+          "cold_s": 2.917
+        },
+        "esp32c5": {
+          "cold_s": 2.916
+        },
+        "esp32c6": {
+          "cold_s": 2.708
+        },
+        "esp32h2": {
+          "cold_s": 8.293
+        },
+        "esp32p4": {
+          "cold_s": 2.764
+        },
+        "esp32s2": {
+          "cold_s": 2.855
+        },
+        "esp32s3": {
+          "cold_s": 3.105
+        }
+      }
+    },
+    "libraries/ESP32/examples/ArduinoWaitTimeBeforeStartingSketch/ArduinoWaitTimeBeforeStartingSketch.ino": {
+      "cold_s": 16.701,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.7
+        },
+        "esp32c3": {
+          "cold_s": 1.817
+        },
+        "esp32c5": {
+          "cold_s": 1.975
+        },
+        "esp32c6": {
+          "cold_s": 2.141
+        },
+        "esp32h2": {
+          "cold_s": 1.929
+        },
+        "esp32p4": {
+          "cold_s": 1.903
+        },
+        "esp32s2": {
+          "cold_s": 1.994
+        },
+        "esp32s3": {
+          "cold_s": 2.242
+        }
+      }
+    },
+    "libraries/ESP32/examples/GPIO/FunctionalInterruptStruct/FunctionalInterruptStruct.ino": {
+      "cold_s": 16.772,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.819
+        },
+        "esp32c3": {
+          "cold_s": 1.925
+        },
+        "esp32c5": {
+          "cold_s": 2.104
+        },
+        "esp32c6": {
+          "cold_s": 1.925
+        },
+        "esp32h2": {
+          "cold_s": 1.901
+        },
+        "esp32p4": {
+          "cold_s": 1.891
+        },
+        "esp32s2": {
+          "cold_s": 1.999
+        },
+        "esp32s3": {
+          "cold_s": 2.208
+        }
+      }
+    },
+    "libraries/ESP32/examples/ResetReason/ResetReason2/ResetReason2.ino": {
+      "cold_s": 16.721,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.858
+        },
+        "esp32c3": {
+          "cold_s": 1.871
+        },
+        "esp32c5": {
+          "cold_s": 2.018
+        },
+        "esp32c6": {
+          "cold_s": 1.898
+        },
+        "esp32h2": {
+          "cold_s": 1.891
+        },
+        "esp32p4": {
+          "cold_s": 1.929
+        },
+        "esp32s2": {
+          "cold_s": 2.006
+        },
+        "esp32s3": {
+          "cold_s": 2.25
+        }
+      }
+    },
+    "libraries/ESP32/examples/Serial/onReceiveExample/onReceiveExample.ino": {
+      "cold_s": 16.857,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.879
+        },
+        "esp32c3": {
+          "cold_s": 1.847
+        },
+        "esp32c5": {
+          "cold_s": 2.025
+        },
+        "esp32c6": {
+          "cold_s": 1.914
+        },
+        "esp32h2": {
+          "cold_s": 1.945
+        },
+        "esp32p4": {
+          "cold_s": 1.949
+        },
+        "esp32s2": {
+          "cold_s": 2.048
+        },
+        "esp32s3": {
+          "cold_s": 2.25
+        }
+      }
+    },
+    "libraries/ESP_I2S/examples/Record_to_WAV/Record_to_WAV.ino": {
+      "cold_s": 12.682,
+      "by_target": {
+        "esp32": {
+          "cold_s": 5.182
+        },
+        "esp32p4": {
+          "cold_s": 3.624
+        },
+        "esp32s3": {
+          "cold_s": 3.876
+        }
+      }
+    },
+    "libraries/Ethernet/examples/ETH_WIFI_BRIDGE/ETH_WIFI_BRIDGE.ino": {
+      "cold_s": 25.668,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.529
+        },
+        "esp32c3": {
+          "cold_s": 3.051
+        },
+        "esp32c5": {
+          "cold_s": 3.114
+        },
+        "esp32c6": {
+          "cold_s": 3.069
+        },
+        "esp32p4": {
+          "cold_s": 3.161
+        },
+        "esp32s2": {
+          "cold_s": 4.298
+        },
+        "esp32s3": {
+          "cold_s": 4.446
+        }
+      }
+    },
+    "libraries/HTTPUpdate/examples/httpUpdateSecure/httpUpdateSecure.ino": {
+      "cold_s": 123.261,
+      "by_target": {
+        "esp32": {
+          "cold_s": 13.415
+        },
+        "esp32c3": {
+          "cold_s": 16.893
+        },
+        "esp32c5": {
+          "cold_s": 17.184
+        },
+        "esp32c6": {
+          "cold_s": 16.856
+        },
+        "esp32p4": {
+          "cold_s": 19.732
+        },
+        "esp32s2": {
+          "cold_s": 19.195
+        },
+        "esp32s3": {
+          "cold_s": 19.986
+        }
+      }
+    },
+    "libraries/Hash/examples/SHA2/SHA2.ino": {
+      "cold_s": 18.072,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.947
+        },
+        "esp32c3": {
+          "cold_s": 1.906
+        },
+        "esp32c5": {
+          "cold_s": 1.999
+        },
+        "esp32c6": {
+          "cold_s": 1.993
+        },
+        "esp32h2": {
+          "cold_s": 2.528
+        },
+        "esp32p4": {
+          "cold_s": 2.197
+        },
+        "esp32s2": {
+          "cold_s": 2.135
+        },
+        "esp32s3": {
+          "cold_s": 2.367
+        }
+      }
+    },
+    "libraries/Matter/examples/Control/MatterSmartButton/MatterSmartButton.ino": {
+      "cold_s": 399.022,
+      "by_target": {
+        "esp32": {
+          "cold_s": 56.325
+        },
+        "esp32c3": {
+          "cold_s": 49.05
+        },
+        "esp32c5": {
+          "cold_s": 64.194
+        },
+        "esp32c6": {
+          "cold_s": 51.621
+        },
+        "esp32h2": {
+          "cold_s": 57.257
+        },
+        "esp32s2": {
+          "cold_s": 56.34
+        },
+        "esp32s3": {
+          "cold_s": 64.235
+        }
+      }
+    },
+    "libraries/Matter/examples/Lighting/MatterOnIdentify/MatterOnIdentify.ino": {
+      "cold_s": 79.365,
+      "by_target": {
+        "esp32": {
+          "cold_s": 14.055
+        },
+        "esp32c3": {
+          "cold_s": 8.067
+        },
+        "esp32c5": {
+          "cold_s": 8.76
+        },
+        "esp32c6": {
+          "cold_s": 8.738
+        },
+        "esp32h2": {
+          "cold_s": 8.448
+        },
+        "esp32s2": {
+          "cold_s": 14.576
+        },
+        "esp32s3": {
+          "cold_s": 16.721
+        }
+      }
+    },
+    "libraries/NetworkClientSecure/examples/WiFiClientTrustOnFirstUse/WiFiClientTrustOnFirstUse.ino": {
+      "cold_s": 28.276,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.745
+        },
+        "esp32c3": {
+          "cold_s": 3.327
+        },
+        "esp32c5": {
+          "cold_s": 3.534
+        },
+        "esp32c6": {
+          "cold_s": 3.419
+        },
+        "esp32p4": {
+          "cold_s": 3.693
+        },
+        "esp32s2": {
+          "cold_s": 4.551
+        },
+        "esp32s3": {
+          "cold_s": 5.007
+        }
+      }
+    },
+    "libraries/Ticker/examples/TickerBasic/TickerBasic.ino": {
+      "cold_s": 16.709,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.54
+        },
+        "esp32c3": {
+          "cold_s": 1.902
+        },
+        "esp32c5": {
+          "cold_s": 2.105
+        },
+        "esp32c6": {
+          "cold_s": 2.006
+        },
+        "esp32h2": {
+          "cold_s": 1.868
+        },
+        "esp32p4": {
+          "cold_s": 1.964
+        },
+        "esp32s2": {
+          "cold_s": 2.027
+        },
+        "esp32s3": {
+          "cold_s": 2.297
+        }
+      }
+    },
+    "libraries/WebServer/examples/FSBrowser/FSBrowser.ino": {
+      "cold_s": 54.528,
+      "by_target": {
+        "esp32": {
+          "cold_s": 8.185
+        },
+        "esp32c3": {
+          "cold_s": 6.664
+        },
+        "esp32c5": {
+          "cold_s": 7.371
+        },
+        "esp32c6": {
+          "cold_s": 7.261
+        },
+        "esp32p4": {
+          "cold_s": 7.444
+        },
+        "esp32s2": {
+          "cold_s": 8.234
+        },
+        "esp32s3": {
+          "cold_s": 9.369
+        }
+      }
+    },
+    "libraries/WebServer/examples/HttpBasicAuthSHA1orBearerToken/HttpBasicAuthSHA1orBearerToken.ino": {
+      "cold_s": 32.671,
+      "by_target": {
+        "esp32": {
+          "cold_s": 5.387
+        },
+        "esp32c3": {
+          "cold_s": 3.785
+        },
+        "esp32c5": {
+          "cold_s": 4.462
+        },
+        "esp32c6": {
+          "cold_s": 3.987
+        },
+        "esp32p4": {
+          "cold_s": 4.01
+        },
+        "esp32s2": {
+          "cold_s": 5.153
+        },
+        "esp32s3": {
+          "cold_s": 5.887
+        }
+      }
+    },
+    "libraries/WiFi/examples/WiFiClient/WiFiClient.ino": {
+      "cold_s": 22.79,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.845
+        },
+        "esp32c3": {
+          "cold_s": 2.625
+        },
+        "esp32c5": {
+          "cold_s": 2.914
+        },
+        "esp32c6": {
+          "cold_s": 2.691
+        },
+        "esp32p4": {
+          "cold_s": 2.745
+        },
+        "esp32s2": {
+          "cold_s": 3.766
+        },
+        "esp32s3": {
+          "cold_s": 4.204
+        }
+      }
+    },
+    "libraries/WiFi/examples/WiFiSmartConfig/WiFiSmartConfig.ino": {
+      "cold_s": 19.761,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.76
+        },
+        "esp32c3": {
+          "cold_s": 2.623
+        },
+        "esp32c5": {
+          "cold_s": 2.873
+        },
+        "esp32c6": {
+          "cold_s": 2.678
+        },
+        "esp32s2": {
+          "cold_s": 3.675
+        },
+        "esp32s3": {
+          "cold_s": 4.152
+        }
+      }
+    },
+    "libraries/OpenThread/examples/CLI/SimpleCLI/SimpleCLI.ino": {
+      "cold_s": 13.692,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 4.7
+        },
+        "esp32c6": {
+          "cold_s": 4.558
+        },
+        "esp32h2": {
+          "cold_s": 4.434
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/CoAP/CoAP_Light_Switch/switch/switch.ino": {
+      "cold_s": 7.356,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 2.561
+        },
+        "esp32c6": {
+          "cold_s": 2.404
+        },
+        "esp32h2": {
+          "cold_s": 2.391
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/ThreadDNSSD/ThreadDNSSD_QueryHost/ThreadDNSSD_QueryHost.ino": {
+      "cold_s": 7.506,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 2.682
+        },
+        "esp32c6": {
+          "cold_s": 2.45
+        },
+        "esp32h2": {
+          "cold_s": 2.374
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Electrical_DC_Sensor/Zigbee_Electrical_DC_Sensor.ino": {
+      "cold_s": 45.577,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 15.733
+        },
+        "esp32c6": {
+          "cold_s": 15.196
+        },
+        "esp32h2": {
+          "cold_s": 14.648
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_PM25_Sensor/Zigbee_PM25_Sensor.ino": {
+      "cold_s": 7.846,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 2.719
+        },
+        "esp32c6": {
+          "cold_s": 2.595
+        },
+        "esp32h2": {
+          "cold_s": 2.532
+        }
+      }
+    },
+    "libraries/USB/examples/Keyboard/KeyboardReprogram/KeyboardReprogram.ino": {
+      "cold_s": 26.969,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 8.794
+        },
+        "esp32s2": {
+          "cold_s": 8.476
+        },
+        "esp32s3": {
+          "cold_s": 9.699
+        }
+      }
+    },
+    "libraries/USB/examples/SystemControl/SystemControl.ino": {
+      "cold_s": 8.32,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 2.567
+        },
+        "esp32s2": {
+          "cold_s": 2.648
+        },
+        "esp32s3": {
+          "cold_s": 3.105
+        }
+      }
+    },
+    "libraries/BluetoothSerial/examples/SerialToSerialBT_Legacy/SerialToSerialBT_Legacy.ino": {
+      "cold_s": 11.708,
+      "by_target": {
+        "esp32": {
+          "cold_s": 11.708
+        }
+      }
+    },
+    "libraries/Console/examples/ConsoleAdvanced/ConsoleAdvanced.ino": {
+      "cold_s": 59.143,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.37
+        },
+        "esp32c3": {
+          "cold_s": 7.191
+        },
+        "esp32c5": {
+          "cold_s": 7.604
+        },
+        "esp32c6": {
+          "cold_s": 7.508
+        },
+        "esp32h2": {
+          "cold_s": 7.305
+        },
+        "esp32p4": {
+          "cold_s": 8.541
+        },
+        "esp32s2": {
+          "cold_s": 8.328
+        },
+        "esp32s3": {
+          "cold_s": 9.296
+        }
+      }
+    },
+    "libraries/DNSServer/examples/CaptivePortal/CaptivePortal.ino": {
+      "cold_s": 80.763,
+      "by_target": {
+        "esp32": {
+          "cold_s": 16.519
+        },
+        "esp32c3": {
+          "cold_s": 10.328
+        },
+        "esp32c5": {
+          "cold_s": 10.358
+        },
+        "esp32c6": {
+          "cold_s": 10.169
+        },
+        "esp32p4": {
+          "cold_s": 9.951
+        },
+        "esp32s2": {
+          "cold_s": 11.05
+        },
+        "esp32s3": {
+          "cold_s": 12.388
+        }
+      }
+    },
+    "libraries/EEPROM/examples/eeprom_class/eeprom_class.ino": {
+      "cold_s": 16.37,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.654
+        },
+        "esp32c3": {
+          "cold_s": 1.843
+        },
+        "esp32c5": {
+          "cold_s": 1.924
+        },
+        "esp32c6": {
+          "cold_s": 1.872
+        },
+        "esp32h2": {
+          "cold_s": 1.874
+        },
+        "esp32p4": {
+          "cold_s": 1.849
+        },
+        "esp32s2": {
+          "cold_s": 2.083
+        },
+        "esp32s3": {
+          "cold_s": 2.271
+        }
+      }
+    },
+    "libraries/ESP32/examples/Camera/CameraWebServer/CameraWebServer.ino": {
+      "cold_s": 96.043,
+      "by_target": {
+        "esp32": {
+          "cold_s": 25.355
+        },
+        "esp32s2": {
+          "cold_s": 26.503
+        },
+        "esp32s3": {
+          "cold_s": 44.185
+        }
+      }
+    },
+    "libraries/ESP32/examples/HFP_HCI_Audio/HFP_HCI_Audio.ino": {
+      "cold_s": 4.961,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.961
+        }
+      }
+    },
+    "libraries/ESP32/examples/Serial/HardwareFlowControl_Demo/HardwareFlowControl_Demo.ino": {
+      "cold_s": 15.68,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.589
+        },
+        "esp32c3": {
+          "cold_s": 1.708
+        },
+        "esp32c5": {
+          "cold_s": 1.804
+        },
+        "esp32c6": {
+          "cold_s": 2.039
+        },
+        "esp32h2": {
+          "cold_s": 1.72
+        },
+        "esp32p4": {
+          "cold_s": 1.734
+        },
+        "esp32s2": {
+          "cold_s": 1.907
+        },
+        "esp32s3": {
+          "cold_s": 2.179
+        }
+      }
+    },
+    "libraries/ESP32/examples/TWAI/TWAIreceive/TWAIreceive.ino": {
+      "cold_s": 13.645,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.563
+        },
+        "esp32c3": {
+          "cold_s": 1.715
+        },
+        "esp32c6": {
+          "cold_s": 1.731
+        },
+        "esp32h2": {
+          "cold_s": 1.701
+        },
+        "esp32p4": {
+          "cold_s": 1.815
+        },
+        "esp32s2": {
+          "cold_s": 1.977
+        },
+        "esp32s3": {
+          "cold_s": 2.143
+        }
+      }
+    },
+    "libraries/ESP_NOW/examples/ESP_NOW_Broadcast_Master/ESP_NOW_Broadcast_Master.ino": {
+      "cold_s": 19.556,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.902
+        },
+        "esp32c3": {
+          "cold_s": 2.561
+        },
+        "esp32c5": {
+          "cold_s": 2.692
+        },
+        "esp32c6": {
+          "cold_s": 2.76
+        },
+        "esp32s2": {
+          "cold_s": 3.664
+        },
+        "esp32s3": {
+          "cold_s": 3.977
+        }
+      }
+    },
+    "libraries/FFat/examples/FFat_time/FFat_time.ino": {
+      "cold_s": 22.238,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.964
+        },
+        "esp32c3": {
+          "cold_s": 2.606
+        },
+        "esp32c5": {
+          "cold_s": 2.652
+        },
+        "esp32c6": {
+          "cold_s": 2.681
+        },
+        "esp32p4": {
+          "cold_s": 2.492
+        },
+        "esp32s2": {
+          "cold_s": 3.808
+        },
+        "esp32s3": {
+          "cold_s": 4.035
+        }
+      }
+    },
+    "libraries/HTTPUpdate/examples/httpUpdate/httpUpdate.ino": {
+      "cold_s": 41.004,
+      "by_target": {
+        "esp32": {
+          "cold_s": 6.716
+        },
+        "esp32c3": {
+          "cold_s": 5.161
+        },
+        "esp32c5": {
+          "cold_s": 5.345
+        },
+        "esp32c6": {
+          "cold_s": 5.188
+        },
+        "esp32p4": {
+          "cold_s": 5.068
+        },
+        "esp32s2": {
+          "cold_s": 6.563
+        },
+        "esp32s3": {
+          "cold_s": 6.963
+        }
+      }
+    },
+    "libraries/Hash/examples/SHA3Stream/SHA3Stream.ino": {
+      "cold_s": 16.664,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.657
+        },
+        "esp32c3": {
+          "cold_s": 1.928
+        },
+        "esp32c5": {
+          "cold_s": 1.893
+        },
+        "esp32c6": {
+          "cold_s": 1.91
+        },
+        "esp32h2": {
+          "cold_s": 2.342
+        },
+        "esp32p4": {
+          "cold_s": 1.773
+        },
+        "esp32s2": {
+          "cold_s": 2.018
+        },
+        "esp32s3": {
+          "cold_s": 2.143
+        }
+      }
+    },
+    "libraries/Matter/examples/Advanced/MatterEarlyBLERelease/MatterEarlyBLERelease.ino": {
+      "cold_s": 345.678,
+      "by_target": {
+        "esp32": {
+          "cold_s": 56.799
+        },
+        "esp32c3": {
+          "cold_s": 52.391
+        },
+        "esp32c5": {
+          "cold_s": 53.497
+        },
+        "esp32c6": {
+          "cold_s": 53.01
+        },
+        "esp32s2": {
+          "cold_s": 63.707
+        },
+        "esp32s3": {
+          "cold_s": 66.274
+        }
+      }
+    },
+    "libraries/Matter/examples/Control/MatterSmartButtonsTagList/MatterSmartButtonsTagList.ino": {
+      "cold_s": 117.587,
+      "by_target": {
+        "esp32": {
+          "cold_s": 14.382
+        },
+        "esp32c3": {
+          "cold_s": 7.304
+        },
+        "esp32c5": {
+          "cold_s": 7.74
+        },
+        "esp32c6": {
+          "cold_s": 7.777
+        },
+        "esp32h2": {
+          "cold_s": 51.457
+        },
+        "esp32s2": {
+          "cold_s": 14.165
+        },
+        "esp32s3": {
+          "cold_s": 14.762
+        }
+      }
+    },
+    "libraries/Matter/examples/Lighting/MatterOnOffLight/MatterOnOffLight.ino": {
+      "cold_s": 74.451,
+      "by_target": {
+        "esp32": {
+          "cold_s": 13.968
+        },
+        "esp32c3": {
+          "cold_s": 7.46
+        },
+        "esp32c5": {
+          "cold_s": 8.285
+        },
+        "esp32c6": {
+          "cold_s": 7.895
+        },
+        "esp32h2": {
+          "cold_s": 7.697
+        },
+        "esp32s2": {
+          "cold_s": 14.224
+        },
+        "esp32s3": {
+          "cold_s": 14.922
+        }
+      }
+    },
+    "libraries/PPP/examples/PPP_WIFI_BRIDGE/PPP_WIFI_BRIDGE.ino": {
+      "cold_s": 23.63,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.245
+        },
+        "esp32c3": {
+          "cold_s": 2.75
+        },
+        "esp32c5": {
+          "cold_s": 2.976
+        },
+        "esp32c6": {
+          "cold_s": 2.763
+        },
+        "esp32p4": {
+          "cold_s": 2.66
+        },
+        "esp32s2": {
+          "cold_s": 4.05
+        },
+        "esp32s3": {
+          "cold_s": 4.186
+        }
+      }
+    },
+    "libraries/Update/examples/AWS_S3_OTA_Update/AWS_S3_OTA_Update.ino": {
+      "cold_s": 22.503,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.079
+        },
+        "esp32c3": {
+          "cold_s": 2.555
+        },
+        "esp32c5": {
+          "cold_s": 2.669
+        },
+        "esp32c6": {
+          "cold_s": 2.781
+        },
+        "esp32p4": {
+          "cold_s": 2.643
+        },
+        "esp32s2": {
+          "cold_s": 3.776
+        },
+        "esp32s3": {
+          "cold_s": 4.0
+        }
+      }
+    },
+    "libraries/WebServer/examples/HelloServer/HelloServer.ino": {
+      "cold_s": 24.144,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.28
+        },
+        "esp32c3": {
+          "cold_s": 2.802
+        },
+        "esp32c5": {
+          "cold_s": 2.814
+        },
+        "esp32c6": {
+          "cold_s": 2.863
+        },
+        "esp32p4": {
+          "cold_s": 2.753
+        },
+        "esp32s2": {
+          "cold_s": 4.14
+        },
+        "esp32s3": {
+          "cold_s": 4.492
+        }
+      }
+    },
+    "libraries/WiFi/examples/WiFiClientConnect/WiFiClientConnect.ino": {
+      "cold_s": 20.791,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.545
+        },
+        "esp32c3": {
+          "cold_s": 2.497
+        },
+        "esp32c5": {
+          "cold_s": 2.429
+        },
+        "esp32c6": {
+          "cold_s": 2.592
+        },
+        "esp32p4": {
+          "cold_s": 2.49
+        },
+        "esp32s2": {
+          "cold_s": 3.476
+        },
+        "esp32s3": {
+          "cold_s": 3.762
+        }
+      }
+    },
+    "libraries/WiFi/examples/WiFiUDPClient/WiFiUDPClient.ino": {
+      "cold_s": 20.923,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.664
+        },
+        "esp32c3": {
+          "cold_s": 2.402
+        },
+        "esp32c5": {
+          "cold_s": 2.482
+        },
+        "esp32c6": {
+          "cold_s": 2.511
+        },
+        "esp32p4": {
+          "cold_s": 2.446
+        },
+        "esp32s2": {
+          "cold_s": 3.594
+        },
+        "esp32s3": {
+          "cold_s": 3.824
+        }
+      }
+    },
+    "libraries/RainMaker/examples/RMakerCustom/RMakerCustom.ino": {
+      "cold_s": 77.832,
+      "by_target": {
+        "esp32c3": {
+          "cold_s": 13.93
+        },
+        "esp32c5": {
+          "cold_s": 14.153
+        },
+        "esp32c6": {
+          "cold_s": 14.294
+        },
+        "esp32s2": {
+          "cold_s": 16.829
+        },
+        "esp32s3": {
+          "cold_s": 18.626
+        }
+      }
+    },
+    "libraries/OpenThread/examples/CLI/SimpleThreadNetwork/ExtendedRouterNode/ExtendedRouterNode.ino": {
+      "cold_s": 12.848,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 4.24
+        },
+        "esp32c6": {
+          "cold_s": 4.475
+        },
+        "esp32h2": {
+          "cold_s": 4.133
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/CoAP/CoAP_Secure/secure_server/secure_server.ino": {
+      "cold_s": 6.879,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 2.364
+        },
+        "esp32c6": {
+          "cold_s": 2.225
+        },
+        "esp32h2": {
+          "cold_s": 2.29
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/ThreadDNSSD/ThreadDNSSD_Remove/ThreadDNSSD_Remove.ino": {
+      "cold_s": 6.984,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 2.329
+        },
+        "esp32c6": {
+          "cold_s": 2.35
+        },
+        "esp32h2": {
+          "cold_s": 2.305
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Pressure_Flow_Sensor/Zigbee_Pressure_Flow_Sensor.ino": {
+      "cold_s": 40.967,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 13.506
+        },
+        "esp32c6": {
+          "cold_s": 13.774
+        },
+        "esp32h2": {
+          "cold_s": 13.687
+        }
+      }
+    },
+    "libraries/USB/examples/USBHostGamepad/USBHostGamepad.ino": {
+      "cold_s": 23.942,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 7.676
+        },
+        "esp32s2": {
+          "cold_s": 7.983
+        },
+        "esp32s3": {
+          "cold_s": 8.283
+        }
+      }
+    },
+    "libraries/BLE/examples/EddystoneURL_Beacon/EddystoneURL_Beacon.ino": {
+      "cold_s": 129.104,
+      "by_target": {
+        "esp32": {
+          "cold_s": 24.111
+        },
+        "esp32c3": {
+          "cold_s": 16.749
+        },
+        "esp32c5": {
+          "cold_s": 17.333
+        },
+        "esp32c6": {
+          "cold_s": 17.416
+        },
+        "esp32h2": {
+          "cold_s": 16.68
+        },
+        "esp32p4": {
+          "cold_s": 18.16
+        },
+        "esp32s3": {
+          "cold_s": 18.655
+        }
+      }
+    },
+    "libraries/Console/examples/ConsoleFS/ConsoleFS.ino": {
+      "cold_s": 31.884,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.179
+        },
+        "esp32c3": {
+          "cold_s": 3.12
+        },
+        "esp32c5": {
+          "cold_s": 3.097
+        },
+        "esp32c6": {
+          "cold_s": 3.237
+        },
+        "esp32h2": {
+          "cold_s": 3.024
+        },
+        "esp32p4": {
+          "cold_s": 3.102
+        },
+        "esp32s2": {
+          "cold_s": 8.613
+        },
+        "esp32s3": {
+          "cold_s": 3.512
+        }
+      }
+    },
+    "libraries/ESP32/examples/AnalogOut/ledcWrite_RGB/ledcWrite_RGB.ino": {
+      "cold_s": 16.532,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.862
+        },
+        "esp32c3": {
+          "cold_s": 1.857
+        },
+        "esp32c5": {
+          "cold_s": 1.914
+        },
+        "esp32c6": {
+          "cold_s": 1.907
+        },
+        "esp32h2": {
+          "cold_s": 1.861
+        },
+        "esp32p4": {
+          "cold_s": 1.842
+        },
+        "esp32s2": {
+          "cold_s": 2.04
+        },
+        "esp32s3": {
+          "cold_s": 2.249
+        }
+      }
+    },
+    "libraries/ESP32/examples/FreeRTOS/Semaphore/Semaphore.ino": {
+      "cold_s": 16.368,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.83
+        },
+        "esp32c3": {
+          "cold_s": 1.851
+        },
+        "esp32c5": {
+          "cold_s": 1.905
+        },
+        "esp32c6": {
+          "cold_s": 1.89
+        },
+        "esp32h2": {
+          "cold_s": 1.83
+        },
+        "esp32p4": {
+          "cold_s": 1.826
+        },
+        "esp32s2": {
+          "cold_s": 2.011
+        },
+        "esp32s3": {
+          "cold_s": 2.225
+        }
+      }
+    },
+    "libraries/ESP32/examples/RMT/RMT_CPUFreq_Test/RMT_CPUFreq_Test.ino": {
+      "cold_s": 16.465,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.844
+        },
+        "esp32c3": {
+          "cold_s": 1.852
+        },
+        "esp32c5": {
+          "cold_s": 1.919
+        },
+        "esp32c6": {
+          "cold_s": 1.889
+        },
+        "esp32h2": {
+          "cold_s": 1.837
+        },
+        "esp32p4": {
+          "cold_s": 1.854
+        },
+        "esp32s2": {
+          "cold_s": 2.034
+        },
+        "esp32s3": {
+          "cold_s": 2.236
+        }
+      }
+    },
+    "libraries/ESP32/examples/Serial/RxPull_Demo/RxPull_Demo.ino": {
+      "cold_s": 16.563,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.845
+        },
+        "esp32c3": {
+          "cold_s": 1.872
+        },
+        "esp32c5": {
+          "cold_s": 1.926
+        },
+        "esp32c6": {
+          "cold_s": 1.917
+        },
+        "esp32h2": {
+          "cold_s": 1.857
+        },
+        "esp32p4": {
+          "cold_s": 1.871
+        },
+        "esp32s2": {
+          "cold_s": 2.031
+        },
+        "esp32s3": {
+          "cold_s": 2.244
+        }
+      }
+    },
+    "libraries/ESP32/examples/Touch/TouchRead/TouchRead.ino": {
+      "cold_s": 24.184,
+      "by_target": {
+        "esp32": {
+          "cold_s": 7.054
+        },
+        "esp32p4": {
+          "cold_s": 7.429
+        },
+        "esp32s2": {
+          "cold_s": 2.039
+        },
+        "esp32s3": {
+          "cold_s": 7.662
+        }
+      }
+    },
+    "libraries/Ethernet/examples/ETH_LAN8720/ETH_LAN8720.ino": {
+      "cold_s": 5.506,
+      "by_target": {
+        "esp32": {
+          "cold_s": 5.506
+        }
+      }
+    },
+    "libraries/Hash/examples/HMAC/HMAC.ino": {
+      "cold_s": 21.749,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.48
+        },
+        "esp32c3": {
+          "cold_s": 2.531
+        },
+        "esp32c5": {
+          "cold_s": 2.615
+        },
+        "esp32c6": {
+          "cold_s": 2.547
+        },
+        "esp32h2": {
+          "cold_s": 2.518
+        },
+        "esp32p4": {
+          "cold_s": 2.52
+        },
+        "esp32s2": {
+          "cold_s": 2.701
+        },
+        "esp32s3": {
+          "cold_s": 2.837
+        }
+      }
+    },
+    "libraries/Matter/examples/Advanced/MatterLambdaSingleCallbackManyEPs/MatterLambdaSingleCallbackManyEPs.ino": {
+      "cold_s": 408.072,
+      "by_target": {
+        "esp32": {
+          "cold_s": 64.264
+        },
+        "esp32c3": {
+          "cold_s": 51.086
+        },
+        "esp32c5": {
+          "cold_s": 56.905
+        },
+        "esp32c6": {
+          "cold_s": 52.684
+        },
+        "esp32h2": {
+          "cold_s": 47.881
+        },
+        "esp32s2": {
+          "cold_s": 68.007
+        },
+        "esp32s3": {
+          "cold_s": 67.245
+        }
+      }
+    },
+    "libraries/Matter/examples/Control/MatterTemperatureControlledCabinet/MatterTemperatureControlledCabinet.ino": {
+      "cold_s": 96.627,
+      "by_target": {
+        "esp32": {
+          "cold_s": 20.419
+        },
+        "esp32c3": {
+          "cold_s": 7.912
+        },
+        "esp32c5": {
+          "cold_s": 8.316
+        },
+        "esp32c6": {
+          "cold_s": 8.554
+        },
+        "esp32h2": {
+          "cold_s": 8.011
+        },
+        "esp32s2": {
+          "cold_s": 19.642
+        },
+        "esp32s3": {
+          "cold_s": 23.773
+        }
+      }
+    },
+    "libraries/Matter/examples/Lighting/MatterTemperatureLight/MatterTemperatureLight.ino": {
+      "cold_s": 99.971,
+      "by_target": {
+        "esp32": {
+          "cold_s": 21.161
+        },
+        "esp32c3": {
+          "cold_s": 8.098
+        },
+        "esp32c5": {
+          "cold_s": 8.517
+        },
+        "esp32c6": {
+          "cold_s": 8.693
+        },
+        "esp32h2": {
+          "cold_s": 8.183
+        },
+        "esp32s2": {
+          "cold_s": 20.394
+        },
+        "esp32s3": {
+          "cold_s": 24.925
+        }
+      }
+    },
+    "libraries/NetworkClientSecure/examples/WiFiClientSecureBuiltinCACertBundle/WiFiClientSecureBuiltinCACertBundle.ino": {
+      "cold_s": 37.258,
+      "by_target": {
+        "esp32": {
+          "cold_s": 5.515
+        },
+        "esp32c3": {
+          "cold_s": 3.081
+        },
+        "esp32c5": {
+          "cold_s": 7.467
+        },
+        "esp32c6": {
+          "cold_s": 3.249
+        },
+        "esp32p4": {
+          "cold_s": 7.277
+        },
+        "esp32s2": {
+          "cold_s": 5.143
+        },
+        "esp32s3": {
+          "cold_s": 5.526
+        }
+      }
+    },
+    "libraries/SPIFFS/examples/SPIFFS_Test/SPIFFS_Test.ino": {
+      "cold_s": 22.507,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.234
+        },
+        "esp32c3": {
+          "cold_s": 2.724
+        },
+        "esp32c5": {
+          "cold_s": 2.797
+        },
+        "esp32c6": {
+          "cold_s": 2.718
+        },
+        "esp32h2": {
+          "cold_s": 2.699
+        },
+        "esp32p4": {
+          "cold_s": 2.215
+        },
+        "esp32s2": {
+          "cold_s": 2.925
+        },
+        "esp32s3": {
+          "cold_s": 3.195
+        }
+      }
+    },
+    "libraries/WebServer/examples/HttpAuthCallback/HttpAuthCallback.ino": {
+      "cold_s": 87.528,
+      "by_target": {
+        "esp32": {
+          "cold_s": 11.886
+        },
+        "esp32c3": {
+          "cold_s": 16.563
+        },
+        "esp32c5": {
+          "cold_s": 11.972
+        },
+        "esp32c6": {
+          "cold_s": 11.714
+        },
+        "esp32p4": {
+          "cold_s": 10.353
+        },
+        "esp32s2": {
+          "cold_s": 12.028
+        },
+        "esp32s3": {
+          "cold_s": 13.012
+        }
+      }
+    },
+    "libraries/WiFi/examples/SimpleWiFiServer/SimpleWiFiServer.ino": {
+      "cold_s": 24.239,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.627
+        },
+        "esp32c3": {
+          "cold_s": 2.628
+        },
+        "esp32c5": {
+          "cold_s": 2.794
+        },
+        "esp32c6": {
+          "cold_s": 2.676
+        },
+        "esp32p4": {
+          "cold_s": 2.612
+        },
+        "esp32s2": {
+          "cold_s": 4.283
+        },
+        "esp32s3": {
+          "cold_s": 4.619
+        }
+      }
+    },
+    "libraries/WiFi/examples/WiFiScan/WiFiScan.ino": {
+      "cold_s": 23.768,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.531
+        },
+        "esp32c3": {
+          "cold_s": 2.622
+        },
+        "esp32c5": {
+          "cold_s": 2.792
+        },
+        "esp32c6": {
+          "cold_s": 2.662
+        },
+        "esp32p4": {
+          "cold_s": 2.589
+        },
+        "esp32s2": {
+          "cold_s": 4.129
+        },
+        "esp32s3": {
+          "cold_s": 4.443
+        }
+      }
+    },
+    "libraries/RainMaker/examples/RMakerCustomAirCooler/RMakerCustomAirCooler.ino": {
+      "cold_s": 83.377,
+      "by_target": {
+        "esp32c3": {
+          "cold_s": 14.384
+        },
+        "esp32c5": {
+          "cold_s": 14.782
+        },
+        "esp32c6": {
+          "cold_s": 14.42
+        },
+        "esp32s2": {
+          "cold_s": 18.206
+        },
+        "esp32s3": {
+          "cold_s": 21.585
+        }
+      }
+    },
+    "libraries/OpenThread/examples/CLI/UDP/udp_sensor_node/udp_sensor_node.ino": {
+      "cold_s": 27.745,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 9.384
+        },
+        "esp32c6": {
+          "cold_s": 9.344
+        },
+        "esp32h2": {
+          "cold_s": 9.017
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/SimpleThreadNetwork/RouterNode/RouterNode.ino": {
+      "cold_s": 7.239,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 2.488
+        },
+        "esp32c6": {
+          "cold_s": 2.394
+        },
+        "esp32h2": {
+          "cold_s": 2.357
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/ThreadScan/ThreadScan_Discover/ThreadScan_Discover.ino": {
+      "cold_s": 7.28,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 2.486
+        },
+        "esp32c6": {
+          "cold_s": 2.419
+        },
+        "esp32h2": {
+          "cold_s": 2.375
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Privilege_Command/Zigbee_Privilege_Command.ino": {
+      "cold_s": 41.34,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 14.1
+        },
+        "esp32c6": {
+          "cold_s": 13.611
+        },
+        "esp32h2": {
+          "cold_s": 13.629
+        }
+      }
+    },
+    "libraries/USB/examples/ConsumerControl/ConsumerControl.ino": {
+      "cold_s": 25.196,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 8.311
+        },
+        "esp32s2": {
+          "cold_s": 7.86
+        },
+        "esp32s3": {
+          "cold_s": 9.025
+        }
+      }
+    },
+    "libraries/USB/examples/KeyboardAndMouseControl/KeyboardAndMouseControl.ino": {
+      "cold_s": 7.883,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 2.284
+        },
+        "esp32s2": {
+          "cold_s": 2.655
+        },
+        "esp32s3": {
+          "cold_s": 2.944
+        }
+      }
+    },
+    "libraries/USB/examples/USBHostMouseCallback/USBHostMouseCallback.ino": {
+      "cold_s": 7.934,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 2.362
+        },
+        "esp32s2": {
+          "cold_s": 2.623
+        },
+        "esp32s3": {
+          "cold_s": 2.949
+        }
+      }
+    },
+    "libraries/BLE/examples/Notify/Notify.ino": {
+      "cold_s": 124.062,
+      "by_target": {
+        "esp32": {
+          "cold_s": 20.215
+        },
+        "esp32c3": {
+          "cold_s": 17.04
+        },
+        "esp32c5": {
+          "cold_s": 18.564
+        },
+        "esp32c6": {
+          "cold_s": 16.232
+        },
+        "esp32h2": {
+          "cold_s": 16.514
+        },
+        "esp32p4": {
+          "cold_s": 17.365
+        },
+        "esp32s3": {
+          "cold_s": 18.132
+        }
+      }
+    },
+    "libraries/Console/examples/ConsoleGPIO/ConsoleGPIO.ino": {
+      "cold_s": 27.476,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.685
+        },
+        "esp32c3": {
+          "cold_s": 2.585
+        },
+        "esp32c5": {
+          "cold_s": 2.727
+        },
+        "esp32c6": {
+          "cold_s": 2.498
+        },
+        "esp32h2": {
+          "cold_s": 2.464
+        },
+        "esp32p4": {
+          "cold_s": 2.465
+        },
+        "esp32s2": {
+          "cold_s": 8.208
+        },
+        "esp32s3": {
+          "cold_s": 2.844
+        }
+      }
+    },
+    "libraries/ESP32/examples/AnalogRead/AnalogRead.ino": {
+      "cold_s": 16.404,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.625
+        },
+        "esp32c3": {
+          "cold_s": 1.87
+        },
+        "esp32c5": {
+          "cold_s": 1.884
+        },
+        "esp32c6": {
+          "cold_s": 1.723
+        },
+        "esp32h2": {
+          "cold_s": 1.694
+        },
+        "esp32p4": {
+          "cold_s": 1.695
+        },
+        "esp32s2": {
+          "cold_s": 1.843
+        },
+        "esp32s3": {
+          "cold_s": 2.07
+        }
+      }
+    },
+    "libraries/ESP32/examples/GPIO/BlinkRGB/BlinkRGB.ino": {
+      "cold_s": 15.014,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.478
+        },
+        "esp32c3": {
+          "cold_s": 1.794
+        },
+        "esp32c5": {
+          "cold_s": 1.825
+        },
+        "esp32c6": {
+          "cold_s": 1.718
+        },
+        "esp32h2": {
+          "cold_s": 1.67
+        },
+        "esp32p4": {
+          "cold_s": 1.733
+        },
+        "esp32s2": {
+          "cold_s": 1.79
+        },
+        "esp32s3": {
+          "cold_s": 2.006
+        }
+      }
+    },
+    "libraries/ESP32/examples/RMT/RMT_EndOfTransmissionState/RMT_EndOfTransmissionState.ino": {
+      "cold_s": 15.401,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.581
+        },
+        "esp32c3": {
+          "cold_s": 1.78
+        },
+        "esp32c5": {
+          "cold_s": 1.986
+        },
+        "esp32c6": {
+          "cold_s": 1.752
+        },
+        "esp32h2": {
+          "cold_s": 1.682
+        },
+        "esp32p4": {
+          "cold_s": 1.744
+        },
+        "esp32s2": {
+          "cold_s": 1.83
+        },
+        "esp32s3": {
+          "cold_s": 2.046
+        }
+      }
+    },
+    "libraries/ESP32/examples/Serial/RxTimeout_Demo/RxTimeout_Demo.ino": {
+      "cold_s": 15.185,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.528
+        },
+        "esp32c3": {
+          "cold_s": 1.755
+        },
+        "esp32c5": {
+          "cold_s": 1.932
+        },
+        "esp32c6": {
+          "cold_s": 1.711
+        },
+        "esp32h2": {
+          "cold_s": 1.698
+        },
+        "esp32p4": {
+          "cold_s": 1.736
+        },
+        "esp32s2": {
+          "cold_s": 1.82
+        },
+        "esp32s3": {
+          "cold_s": 2.005
+        }
+      }
+    },
+    "libraries/Ethernet/examples/ETH_TLK110/ETH_TLK110.ino": {
+      "cold_s": 12.121,
+      "by_target": {
+        "esp32": {
+          "cold_s": 9.629
+        },
+        "esp32p4": {
+          "cold_s": 2.492
+        }
+      }
+    },
+    "libraries/Hash/examples/MD5/MD5.ino": {
+      "cold_s": 15.431,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.706
+        },
+        "esp32c3": {
+          "cold_s": 1.783
+        },
+        "esp32c5": {
+          "cold_s": 1.916
+        },
+        "esp32c6": {
+          "cold_s": 1.736
+        },
+        "esp32h2": {
+          "cold_s": 1.708
+        },
+        "esp32p4": {
+          "cold_s": 1.782
+        },
+        "esp32s2": {
+          "cold_s": 1.802
+        },
+        "esp32s3": {
+          "cold_s": 1.998
+        }
+      }
+    },
+    "libraries/Matter/examples/Commissioning/MatterCHIPoBLERelease/MatterCHIPoBLERelease.ino": {
+      "cold_s": 381.929,
+      "by_target": {
+        "esp32": {
+          "cold_s": 59.313
+        },
+        "esp32c3": {
+          "cold_s": 52.771
+        },
+        "esp32c5": {
+          "cold_s": 60.207
+        },
+        "esp32c6": {
+          "cold_s": 47.591
+        },
+        "esp32h2": {
+          "cold_s": 45.224
+        },
+        "esp32s2": {
+          "cold_s": 59.775
+        },
+        "esp32s3": {
+          "cold_s": 57.048
+        }
+      }
+    },
+    "libraries/Matter/examples/Control/MatterTemperatureControlledCabinetLevels/MatterTemperatureControlledCabinetLevels.ino": {
+      "cold_s": 74.452,
+      "by_target": {
+        "esp32": {
+          "cold_s": 14.346
+        },
+        "esp32c3": {
+          "cold_s": 8.586
+        },
+        "esp32c5": {
+          "cold_s": 8.231
+        },
+        "esp32c6": {
+          "cold_s": 7.646
+        },
+        "esp32h2": {
+          "cold_s": 7.255
+        },
+        "esp32s2": {
+          "cold_s": 13.471
+        },
+        "esp32s3": {
+          "cold_s": 14.917
+        }
+      }
+    },
+    "libraries/Matter/examples/Sensors/MatterContactSensor/MatterContactSensor.ino": {
+      "cold_s": 73.186,
+      "by_target": {
+        "esp32": {
+          "cold_s": 14.013
+        },
+        "esp32c3": {
+          "cold_s": 7.905
+        },
+        "esp32c5": {
+          "cold_s": 7.91
+        },
+        "esp32c6": {
+          "cold_s": 7.533
+        },
+        "esp32h2": {
+          "cold_s": 7.356
+        },
+        "esp32s2": {
+          "cold_s": 13.484
+        },
+        "esp32s3": {
+          "cold_s": 14.985
+        }
+      }
+    },
+    "libraries/NetworkClientSecure/examples/WiFiClientSecureEnterprise/WiFiClientSecureEnterprise.ino": {
+      "cold_s": 26.159,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.434
+        },
+        "esp32c3": {
+          "cold_s": 3.19
+        },
+        "esp32c5": {
+          "cold_s": 7.173
+        },
+        "esp32c6": {
+          "cold_s": 2.921
+        },
+        "esp32s2": {
+          "cold_s": 4.149
+        },
+        "esp32s3": {
+          "cold_s": 4.292
+        }
+      }
+    },
+    "libraries/SPIFFS/examples/SPIFFS_time/SPIFFS_time.ino": {
+      "cold_s": 59.691,
+      "by_target": {
+        "esp32": {
+          "cold_s": 7.127
+        },
+        "esp32c3": {
+          "cold_s": 13.658
+        },
+        "esp32c5": {
+          "cold_s": 7.116
+        },
+        "esp32c6": {
+          "cold_s": 7.166
+        },
+        "esp32p4": {
+          "cold_s": 2.989
+        },
+        "esp32s2": {
+          "cold_s": 7.343
+        },
+        "esp32s3": {
+          "cold_s": 14.292
+        }
+      }
+    },
+    "libraries/WebServer/examples/HttpAuthCallbackInline/HttpAuthCallbackInline.ino": {
+      "cold_s": 52.074,
+      "by_target": {
+        "esp32": {
+          "cold_s": 8.407
+        },
+        "esp32c3": {
+          "cold_s": 7.398
+        },
+        "esp32c5": {
+          "cold_s": 7.011
+        },
+        "esp32c6": {
+          "cold_s": 6.72
+        },
+        "esp32p4": {
+          "cold_s": 6.52
+        },
+        "esp32s2": {
+          "cold_s": 7.695
+        },
+        "esp32s3": {
+          "cold_s": 8.323
+        }
+      }
+    },
+    "libraries/WiFi/examples/WPS/WPS.ino": {
+      "cold_s": 18.959,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.885
+        },
+        "esp32c3": {
+          "cold_s": 2.732
+        },
+        "esp32c5": {
+          "cold_s": 2.603
+        },
+        "esp32c6": {
+          "cold_s": 2.673
+        },
+        "esp32s2": {
+          "cold_s": 3.397
+        },
+        "esp32s3": {
+          "cold_s": 3.669
+        }
+      }
+    },
+    "libraries/WiFi/examples/WiFiScanAsync/WiFiScanAsync.ino": {
+      "cold_s": 20.85,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.865
+        },
+        "esp32c3": {
+          "cold_s": 2.611
+        },
+        "esp32c5": {
+          "cold_s": 2.492
+        },
+        "esp32c6": {
+          "cold_s": 2.569
+        },
+        "esp32p4": {
+          "cold_s": 2.407
+        },
+        "esp32s2": {
+          "cold_s": 3.301
+        },
+        "esp32s3": {
+          "cold_s": 3.605
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Range_Extender/Zigbee_Range_Extender.ino": {
+      "cold_s": 100.654,
+      "by_target": {
+        "esp32": {
+          "cold_s": 15.39
+        },
+        "esp32c3": {
+          "cold_s": 14.534
+        },
+        "esp32c5": {
+          "cold_s": 13.467
+        },
+        "esp32c6": {
+          "cold_s": 14.016
+        },
+        "esp32h2": {
+          "cold_s": 13.429
+        },
+        "esp32s2": {
+          "cold_s": 14.257
+        },
+        "esp32s3": {
+          "cold_s": 15.561
+        }
+      }
+    },
+    "libraries/RainMaker/examples/RMakerSonoffDualR3/RMakerSonoffDualR3.ino": {
+      "cold_s": 78.934,
+      "by_target": {
+        "esp32c3": {
+          "cold_s": 15.664
+        },
+        "esp32c5": {
+          "cold_s": 14.365
+        },
+        "esp32c6": {
+          "cold_s": 14.448
+        },
+        "esp32s2": {
+          "cold_s": 16.322
+        },
+        "esp32s3": {
+          "cold_s": 18.135
+        }
+      }
+    },
+    "libraries/OpenThread/examples/CLI/onReceive/onReceive.ino": {
+      "cold_s": 26.671,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 9.224
+        },
+        "esp32c6": {
+          "cold_s": 8.883
+        },
+        "esp32h2": {
+          "cold_s": 8.564
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/StackShutdown/StackShutdown.ino": {
+      "cold_s": 6.786,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 2.31
+        },
+        "esp32c6": {
+          "cold_s": 2.333
+        },
+        "esp32h2": {
+          "cold_s": 2.143
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/UDP/UDP_Light_Switch/light/light.ino": {
+      "cold_s": 6.836,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 2.295
+        },
+        "esp32c6": {
+          "cold_s": 2.318
+        },
+        "esp32h2": {
+          "cold_s": 2.223
+        }
+      }
+    },
+    "libraries/ESP_HostedOTA/examples/ESP_HostedOTA/ESP_HostedOTA.ino": {
+      "cold_s": 14.131,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 14.131
+        }
+      }
+    },
+    "libraries/USB/examples/CustomHIDDevice/CustomHIDDevice.ino": {
+      "cold_s": 22.99,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 7.457
+        },
+        "esp32s2": {
+          "cold_s": 7.556
+        },
+        "esp32s3": {
+          "cold_s": 7.977
+        }
+      }
+    },
+    "libraries/USB/examples/MIDI/MidiController/MidiController.ino": {
+      "cold_s": 7.397,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 2.204
+        },
+        "esp32s2": {
+          "cold_s": 2.463
+        },
+        "esp32s3": {
+          "cold_s": 2.73
+        }
+      }
+    },
+    "libraries/USB/examples/USBHostSerial/USBHostSerial.ino": {
+      "cold_s": 7.38,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 2.258
+        },
+        "esp32s2": {
+          "cold_s": 2.432
+        },
+        "esp32s3": {
+          "cold_s": 2.69
+        }
+      }
+    },
+    "libraries/BLE/examples/Scan/Scan.ino": {
+      "cold_s": 127.011,
+      "by_target": {
+        "esp32": {
+          "cold_s": 21.888
+        },
+        "esp32c3": {
+          "cold_s": 17.588
+        },
+        "esp32c5": {
+          "cold_s": 16.708
+        },
+        "esp32c6": {
+          "cold_s": 17.43
+        },
+        "esp32h2": {
+          "cold_s": 16.681
+        },
+        "esp32p4": {
+          "cold_s": 18.215
+        },
+        "esp32s3": {
+          "cold_s": 18.501
+        }
+      }
+    },
+    "libraries/Console/examples/ConsoleHistory/ConsoleHistory.ino": {
+      "cold_s": 30.747,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.938
+        },
+        "esp32c3": {
+          "cold_s": 3.176
+        },
+        "esp32c5": {
+          "cold_s": 2.871
+        },
+        "esp32c6": {
+          "cold_s": 3.07
+        },
+        "esp32h2": {
+          "cold_s": 2.91
+        },
+        "esp32p4": {
+          "cold_s": 2.935
+        },
+        "esp32s2": {
+          "cold_s": 8.491
+        },
+        "esp32s3": {
+          "cold_s": 3.356
+        }
+      }
+    },
+    "libraries/ESP32/examples/AnalogReadContinuous/AnalogReadContinuous.ino": {
+      "cold_s": 15.651,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.732
+        },
+        "esp32c3": {
+          "cold_s": 1.864
+        },
+        "esp32c5": {
+          "cold_s": 1.71
+        },
+        "esp32c6": {
+          "cold_s": 1.805
+        },
+        "esp32h2": {
+          "cold_s": 1.784
+        },
+        "esp32p4": {
+          "cold_s": 1.753
+        },
+        "esp32s2": {
+          "cold_s": 1.865
+        },
+        "esp32s3": {
+          "cold_s": 2.138
+        }
+      }
+    },
+    "libraries/ESP32/examples/GPIO/FunctionalInterrupt/FunctionalInterrupt.ino": {
+      "cold_s": 15.773,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.685
+        },
+        "esp32c3": {
+          "cold_s": 1.816
+        },
+        "esp32c5": {
+          "cold_s": 1.75
+        },
+        "esp32c6": {
+          "cold_s": 1.829
+        },
+        "esp32h2": {
+          "cold_s": 1.804
+        },
+        "esp32p4": {
+          "cold_s": 1.776
+        },
+        "esp32s2": {
+          "cold_s": 1.947
+        },
+        "esp32s3": {
+          "cold_s": 2.166
+        }
+      }
+    },
+    "libraries/ESP32/examples/RMT/RMT_LED_Blink/RMT_LED_Blink.ino": {
+      "cold_s": 15.691,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.689
+        },
+        "esp32c3": {
+          "cold_s": 1.819
+        },
+        "esp32c5": {
+          "cold_s": 1.734
+        },
+        "esp32c6": {
+          "cold_s": 1.834
+        },
+        "esp32h2": {
+          "cold_s": 1.807
+        },
+        "esp32p4": {
+          "cold_s": 1.801
+        },
+        "esp32s2": {
+          "cold_s": 1.921
+        },
+        "esp32s3": {
+          "cold_s": 2.086
+        }
+      }
+    },
+    "libraries/ESP32/examples/Serial/Serial_All_CPU_Freqs/Serial_All_CPU_Freqs.ino": {
+      "cold_s": 15.346,
+      "by_target": {
+        "esp32": {
+          "cold_s": 2.635
+        },
+        "esp32c3": {
+          "cold_s": 1.813
+        },
+        "esp32c5": {
+          "cold_s": 1.705
+        },
+        "esp32c6": {
+          "cold_s": 1.77
+        },
+        "esp32h2": {
+          "cold_s": 1.782
+        },
+        "esp32p4": {
+          "cold_s": 1.728
+        },
+        "esp32s2": {
+          "cold_s": 1.851
+        },
+        "esp32s3": {
+          "cold_s": 2.062
+        }
+      }
+    },
+    "libraries/ESP_I2S/examples/ES8388_loopback/ES8388_loopback.ino": {
+      "cold_s": 56.131,
+      "by_target": {
+        "esp32": {
+          "cold_s": 8.127
+        },
+        "esp32c3": {
+          "cold_s": 7.464
+        },
+        "esp32c5": {
+          "cold_s": 6.933
+        },
+        "esp32c6": {
+          "cold_s": 7.339
+        },
+        "esp32h2": {
+          "cold_s": 7.059
+        },
+        "esp32p4": {
+          "cold_s": 8.265
+        },
+        "esp32s2": {
+          "cold_s": 2.387
+        },
+        "esp32s3": {
+          "cold_s": 8.557
+        }
+      }
+    },
+    "libraries/Ethernet/examples/ETH_W5500_Arduino_SPI/ETH_W5500_Arduino_SPI.ino": {
+      "cold_s": 34.53,
+      "by_target": {
+        "esp32": {
+          "cold_s": 5.195
+        },
+        "esp32c3": {
+          "cold_s": 4.317
+        },
+        "esp32c5": {
+          "cold_s": 3.84
+        },
+        "esp32c6": {
+          "cold_s": 4.042
+        },
+        "esp32h2": {
+          "cold_s": 3.953
+        },
+        "esp32p4": {
+          "cold_s": 4.221
+        },
+        "esp32s2": {
+          "cold_s": 4.322
+        },
+        "esp32s3": {
+          "cold_s": 4.64
+        }
+      }
+    },
+    "libraries/Hash/examples/PBKDF2_HMAC/PBKDF2_HMAC.ino": {
+      "cold_s": 20.635,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.343
+        },
+        "esp32c3": {
+          "cold_s": 2.486
+        },
+        "esp32c5": {
+          "cold_s": 2.354
+        },
+        "esp32c6": {
+          "cold_s": 2.464
+        },
+        "esp32h2": {
+          "cold_s": 2.385
+        },
+        "esp32p4": {
+          "cold_s": 2.415
+        },
+        "esp32s2": {
+          "cold_s": 2.457
+        },
+        "esp32s3": {
+          "cold_s": 2.731
+        }
+      }
+    },
+    "libraries/Matter/examples/Control/MatterThermostat/MatterThermostat.ino": {
+      "cold_s": 303.17,
+      "by_target": {
+        "esp32": {
+          "cold_s": 59.296
+        },
+        "esp32c3": {
+          "cold_s": 51.354
+        },
+        "esp32c5": {
+          "cold_s": 56.342
+        },
+        "esp32c6": {
+          "cold_s": 8.182
+        },
+        "esp32h2": {
+          "cold_s": 8.212
+        },
+        "esp32s2": {
+          "cold_s": 59.719
+        },
+        "esp32s3": {
+          "cold_s": 60.065
+        }
+      }
+    },
+    "libraries/Matter/examples/Sensors/MatterHumiditySensor/MatterHumiditySensor.ino": {
+      "cold_s": 75.251,
+      "by_target": {
+        "esp32": {
+          "cold_s": 14.69
+        },
+        "esp32c3": {
+          "cold_s": 7.336
+        },
+        "esp32c5": {
+          "cold_s": 7.971
+        },
+        "esp32c6": {
+          "cold_s": 7.809
+        },
+        "esp32h2": {
+          "cold_s": 8.272
+        },
+        "esp32s2": {
+          "cold_s": 13.446
+        },
+        "esp32s3": {
+          "cold_s": 15.727
+        }
+      }
+    },
+    "libraries/NetworkClientSecure/examples/WiFiClientSecureProtocolUpgrade/WiFiClientSecureProtocolUpgrade.ino": {
+      "cold_s": 42.976,
+      "by_target": {
+        "esp32": {
+          "cold_s": 7.186
+        },
+        "esp32c3": {
+          "cold_s": 5.317
+        },
+        "esp32c5": {
+          "cold_s": 5.684
+        },
+        "esp32c6": {
+          "cold_s": 5.392
+        },
+        "esp32p4": {
+          "cold_s": 5.338
+        },
+        "esp32s2": {
+          "cold_s": 6.465
+        },
+        "esp32s3": {
+          "cold_s": 7.594
+        }
+      }
+    },
+    "libraries/SimpleBLE/examples/SimpleBleDevice/SimpleBleDevice.ino": {
+      "cold_s": 5.302,
+      "by_target": {
+        "esp32": {
+          "cold_s": 5.302
+        }
+      }
+    },
+    "libraries/WebServer/examples/HttpBasicAuth/HttpBasicAuth.ino": {
+      "cold_s": 50.272,
+      "by_target": {
+        "esp32": {
+          "cold_s": 8.604
+        },
+        "esp32c3": {
+          "cold_s": 6.546
+        },
+        "esp32c5": {
+          "cold_s": 6.988
+        },
+        "esp32c6": {
+          "cold_s": 6.712
+        },
+        "esp32p4": {
+          "cold_s": 5.807
+        },
+        "esp32s2": {
+          "cold_s": 7.299
+        },
+        "esp32s3": {
+          "cold_s": 8.316
+        }
+      }
+    },
+    "libraries/WiFi/examples/WiFiAccessPoint/WiFiAccessPoint.ino": {
+      "cold_s": 21.684,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.928
+        },
+        "esp32c3": {
+          "cold_s": 2.44
+        },
+        "esp32c5": {
+          "cold_s": 2.665
+        },
+        "esp32c6": {
+          "cold_s": 2.589
+        },
+        "esp32p4": {
+          "cold_s": 2.439
+        },
+        "esp32s2": {
+          "cold_s": 3.57
+        },
+        "esp32s3": {
+          "cold_s": 4.053
+        }
+      }
+    },
+    "libraries/WiFi/examples/WiFiScanDualAntenna/WiFiScanDualAntenna.ino": {
+      "cold_s": 21.048,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.784
+        },
+        "esp32c3": {
+          "cold_s": 2.398
+        },
+        "esp32c5": {
+          "cold_s": 2.669
+        },
+        "esp32c6": {
+          "cold_s": 2.486
+        },
+        "esp32p4": {
+          "cold_s": 2.386
+        },
+        "esp32s2": {
+          "cold_s": 3.421
+        },
+        "esp32s3": {
+          "cold_s": 3.904
+        }
+      }
+    },
+    "libraries/RainMaker/examples/RMakerSwitch/RMakerSwitch.ino": {
+      "cold_s": 79.268,
+      "by_target": {
+        "esp32c3": {
+          "cold_s": 14.2
+        },
+        "esp32c5": {
+          "cold_s": 14.541
+        },
+        "esp32c6": {
+          "cold_s": 14.131
+        },
+        "esp32s2": {
+          "cold_s": 16.252
+        },
+        "esp32s3": {
+          "cold_s": 20.144
+        }
+      }
+    },
+    "libraries/Matter/examples/Commissioning/MatterCHIPoBLEThread/MatterCHIPoBLEThread.ino": {
+      "cold_s": 149.843,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 51.207
+        },
+        "esp32c6": {
+          "cold_s": 49.151
+        },
+        "esp32h2": {
+          "cold_s": 49.485
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/CoAP/CoAP_CRUD/notes_client/notes_client.ino": {
+      "cold_s": 12.629,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 4.158
+        },
+        "esp32c6": {
+          "cold_s": 4.054
+        },
+        "esp32h2": {
+          "cold_s": 4.417
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/ThreadCommissioning/CommissionerNode/CommissionerNode.ino": {
+      "cold_s": 6.949,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 2.337
+        },
+        "esp32c6": {
+          "cold_s": 2.216
+        },
+        "esp32h2": {
+          "cold_s": 2.396
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/UDP/UDP_Light_Switch/switch/switch.ino": {
+      "cold_s": 6.853,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 2.291
+        },
+        "esp32c6": {
+          "cold_s": 2.259
+        },
+        "esp32h2": {
+          "cold_s": 2.303
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Scan_Networks/Zigbee_Scan_Networks.ino": {
+      "cold_s": 42.226,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 14.622
+        },
+        "esp32c6": {
+          "cold_s": 13.979
+        },
+        "esp32h2": {
+          "cold_s": 13.625
+        }
+      }
+    },
+    "libraries/USB/examples/FirmwareMSC/FirmwareMSC.ino": {
+      "cold_s": 5.977,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 1.695
+        },
+        "esp32s2": {
+          "cold_s": 1.936
+        },
+        "esp32s3": {
+          "cold_s": 2.346
+        }
+      }
+    },
+    "libraries/USB/examples/MIDI/MidiInterface/MidiInterface.ino": {
+      "cold_s": 25.485,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 8.153
+        },
+        "esp32s2": {
+          "cold_s": 7.489
+        },
+        "esp32s3": {
+          "cold_s": 9.843
+        }
+      }
+    },
+    "libraries/USB/examples/USBMSC/USBMSC.ino": {
+      "cold_s": 6.129,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 1.698
+        },
+        "esp32s2": {
+          "cold_s": 2.037
+        },
+        "esp32s3": {
+          "cold_s": 2.394
+        }
+      }
+    },
+    "libraries/BLE/examples/Server/Server.ino": {
+      "cold_s": 213.124,
+      "by_target": {
+        "esp32": {
+          "cold_s": 33.933
+        },
+        "esp32c3": {
+          "cold_s": 28.406
+        },
+        "esp32c5": {
+          "cold_s": 29.164
+        },
+        "esp32c6": {
+          "cold_s": 29.235
+        },
+        "esp32h2": {
+          "cold_s": 29.567
+        },
+        "esp32p4": {
+          "cold_s": 31.181
+        },
+        "esp32s3": {
+          "cold_s": 31.638
+        }
+      }
+    },
+    "libraries/BluetoothSerial/examples/SerialToSerialBT_SSP/SerialToSerialBT_SSP.ino": {
+      "cold_s": 10.147,
+      "by_target": {
+        "esp32": {
+          "cold_s": 10.147
+        }
+      }
+    },
+    "libraries/EEPROM/examples/eeprom_extra/eeprom_extra.ino": {
+      "cold_s": 34.954,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.263
+        },
+        "esp32c3": {
+          "cold_s": 3.046
+        },
+        "esp32c5": {
+          "cold_s": 2.974
+        },
+        "esp32c6": {
+          "cold_s": 2.987
+        },
+        "esp32h2": {
+          "cold_s": 2.946
+        },
+        "esp32p4": {
+          "cold_s": 2.952
+        },
+        "esp32s2": {
+          "cold_s": 12.322
+        },
+        "esp32s3": {
+          "cold_s": 3.464
+        }
+      }
+    },
+    "libraries/ESP32/examples/ChipID/GetChipID/GetChipID.ino": {
+      "cold_s": 23.781,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.002
+        },
+        "esp32c3": {
+          "cold_s": 2.656
+        },
+        "esp32c5": {
+          "cold_s": 2.745
+        },
+        "esp32c6": {
+          "cold_s": 2.73
+        },
+        "esp32h2": {
+          "cold_s": 2.706
+        },
+        "esp32p4": {
+          "cold_s": 2.709
+        },
+        "esp32s2": {
+          "cold_s": 2.98
+        },
+        "esp32s3": {
+          "cold_s": 3.253
+        }
+      }
+    },
+    "libraries/ESP32/examples/HFP_HCI_Audio_I2S/HFP_HCI_Audio_I2S.ino": {
+      "cold_s": 8.638,
+      "by_target": {
+        "esp32": {
+          "cold_s": 8.638
+        }
+      }
+    },
+    "libraries/ESP32/examples/Serial/IrdaMode_DualUART_Demo/IrdaMode_DualUART_Demo.ino": {
+      "cold_s": 23.786,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.07
+        },
+        "esp32c3": {
+          "cold_s": 2.66
+        },
+        "esp32c5": {
+          "cold_s": 2.739
+        },
+        "esp32c6": {
+          "cold_s": 2.739
+        },
+        "esp32h2": {
+          "cold_s": 2.691
+        },
+        "esp32p4": {
+          "cold_s": 2.712
+        },
+        "esp32s2": {
+          "cold_s": 2.921
+        },
+        "esp32s3": {
+          "cold_s": 3.254
+        }
+      }
+    },
+    "libraries/ESP32/examples/TWAI/TWAItransmit/TWAItransmit.ino": {
+      "cold_s": 71.799,
+      "by_target": {
+        "esp32": {
+          "cold_s": 11.363
+        },
+        "esp32c3": {
+          "cold_s": 10.5
+        },
+        "esp32c6": {
+          "cold_s": 10.762
+        },
+        "esp32h2": {
+          "cold_s": 10.78
+        },
+        "esp32p4": {
+          "cold_s": 12.677
+        },
+        "esp32s2": {
+          "cold_s": 2.947
+        },
+        "esp32s3": {
+          "cold_s": 12.77
+        }
+      }
+    },
+    "libraries/ESP_NOW/examples/ESP_NOW_Broadcast_Slave/ESP_NOW_Broadcast_Slave.ino": {
+      "cold_s": 83.558,
+      "by_target": {
+        "esp32": {
+          "cold_s": 13.483
+        },
+        "esp32c3": {
+          "cold_s": 11.227
+        },
+        "esp32c5": {
+          "cold_s": 20.356
+        },
+        "esp32c6": {
+          "cold_s": 11.734
+        },
+        "esp32s2": {
+          "cold_s": 12.971
+        },
+        "esp32s3": {
+          "cold_s": 13.787
+        }
+      }
+    },
+    "libraries/HTTPClient/examples/Authorization/Authorization.ino": {
+      "cold_s": 56.137,
+      "by_target": {
+        "esp32": {
+          "cold_s": 8.685
+        },
+        "esp32c3": {
+          "cold_s": 5.659
+        },
+        "esp32c5": {
+          "cold_s": 5.869
+        },
+        "esp32c6": {
+          "cold_s": 5.801
+        },
+        "esp32p4": {
+          "cold_s": 13.618
+        },
+        "esp32s2": {
+          "cold_s": 8.028
+        },
+        "esp32s3": {
+          "cold_s": 8.477
+        }
+      }
+    },
+    "libraries/Insights/examples/DiagnosticsSmokeTest/DiagnosticsSmokeTest.ino": {
+      "cold_s": 36.938,
+      "by_target": {
+        "esp32": {
+          "cold_s": 7.551
+        },
+        "esp32c3": {
+          "cold_s": 4.799
+        },
+        "esp32c5": {
+          "cold_s": 5.012
+        },
+        "esp32c6": {
+          "cold_s": 4.948
+        },
+        "esp32s2": {
+          "cold_s": 7.093
+        },
+        "esp32s3": {
+          "cold_s": 7.535
+        }
+      }
+    },
+    "libraries/Matter/examples/Control/MatterWindowCovering/MatterWindowCovering.ino": {
+      "cold_s": 332.943,
+      "by_target": {
+        "esp32": {
+          "cold_s": 92.61
+        },
+        "esp32c3": {
+          "cold_s": 11.606
+        },
+        "esp32c5": {
+          "cold_s": 12.078
+        },
+        "esp32c6": {
+          "cold_s": 12.299
+        },
+        "esp32h2": {
+          "cold_s": 77.426
+        },
+        "esp32s2": {
+          "cold_s": 102.062
+        },
+        "esp32s3": {
+          "cold_s": 24.862
+        }
+      }
+    },
+    "libraries/Matter/examples/Sensors/MatterLightSensor/MatterLightSensor.ino": {
+      "cold_s": 115.687,
+      "by_target": {
+        "esp32": {
+          "cold_s": 22.784
+        },
+        "esp32c3": {
+          "cold_s": 11.309
+        },
+        "esp32c5": {
+          "cold_s": 11.711
+        },
+        "esp32c6": {
+          "cold_s": 12.132
+        },
+        "esp32h2": {
+          "cold_s": 11.84
+        },
+        "esp32s2": {
+          "cold_s": 21.597
+        },
+        "esp32s3": {
+          "cold_s": 24.314
+        }
+      }
+    },
+    "libraries/Preferences/examples/Prefs2Struct/Prefs2Struct.ino": {
+      "cold_s": 24.608,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.077
+        },
+        "esp32c3": {
+          "cold_s": 2.651
+        },
+        "esp32c5": {
+          "cold_s": 2.941
+        },
+        "esp32c6": {
+          "cold_s": 2.937
+        },
+        "esp32h2": {
+          "cold_s": 2.894
+        },
+        "esp32p4": {
+          "cold_s": 2.893
+        },
+        "esp32s2": {
+          "cold_s": 2.955
+        },
+        "esp32s3": {
+          "cold_s": 3.26
+        }
+      }
+    },
+    "libraries/Update/examples/HTTPS_OTA_Update/HTTPS_OTA_Update.ino": {
+      "cold_s": 51.639,
+      "by_target": {
+        "esp32": {
+          "cold_s": 8.82
+        },
+        "esp32c3": {
+          "cold_s": 6.088
+        },
+        "esp32c5": {
+          "cold_s": 6.445
+        },
+        "esp32c6": {
+          "cold_s": 6.356
+        },
+        "esp32p4": {
+          "cold_s": 6.347
+        },
+        "esp32s2": {
+          "cold_s": 8.75
+        },
+        "esp32s3": {
+          "cold_s": 8.833
+        }
+      }
+    },
+    "libraries/WebServer/examples/MultiHomedServers/MultiHomedServers.ino": {
+      "cold_s": 66.214,
+      "by_target": {
+        "esp32": {
+          "cold_s": 11.403
+        },
+        "esp32c3": {
+          "cold_s": 8.728
+        },
+        "esp32c5": {
+          "cold_s": 8.995
+        },
+        "esp32c6": {
+          "cold_s": 9.037
+        },
+        "esp32p4": {
+          "cold_s": 7.648
+        },
+        "esp32s2": {
+          "cold_s": 9.884
+        },
+        "esp32s3": {
+          "cold_s": 10.519
+        }
+      }
+    },
+    "libraries/WiFi/examples/WiFiClientEnterprise/WiFiClientEnterprise.ino": {
+      "cold_s": 31.013,
+      "by_target": {
+        "esp32": {
+          "cold_s": 6.543
+        },
+        "esp32c3": {
+          "cold_s": 3.842
+        },
+        "esp32c5": {
+          "cold_s": 4.061
+        },
+        "esp32c6": {
+          "cold_s": 4.063
+        },
+        "esp32s2": {
+          "cold_s": 6.073
+        },
+        "esp32s3": {
+          "cold_s": 6.431
+        }
+      }
+    },
+    "libraries/WiFiProv/examples/WiFiProv/WiFiProv.ino": {
+      "cold_s": 49.974,
+      "by_target": {
+        "esp32": {
+          "cold_s": 14.156
+        },
+        "esp32c3": {
+          "cold_s": 4.472
+        },
+        "esp32c5": {
+          "cold_s": 12.372
+        },
+        "esp32c6": {
+          "cold_s": 4.699
+        },
+        "esp32s2": {
+          "cold_s": 6.095
+        },
+        "esp32s3": {
+          "cold_s": 8.18
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Analog_Input_Output/Zigbee_Analog_Input_Output.ino": {
+      "cold_s": 175.961,
+      "by_target": {
+        "esp32": {
+          "cold_s": 26.178
+        },
+        "esp32c3": {
+          "cold_s": 23.555
+        },
+        "esp32c5": {
+          "cold_s": 23.942
+        },
+        "esp32c6": {
+          "cold_s": 24.666
+        },
+        "esp32h2": {
+          "cold_s": 23.971
+        },
+        "esp32s2": {
+          "cold_s": 26.176
+        },
+        "esp32s3": {
+          "cold_s": 27.473
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Fan_Control/Zigbee_Fan_Control.ino": {
+      "cold_s": 32.012,
+      "by_target": {
+        "esp32": {
+          "cold_s": 6.283
+        },
+        "esp32c3": {
+          "cold_s": 3.696
+        },
+        "esp32c5": {
+          "cold_s": 3.899
+        },
+        "esp32c6": {
+          "cold_s": 3.88
+        },
+        "esp32h2": {
+          "cold_s": 3.792
+        },
+        "esp32s2": {
+          "cold_s": 5.041
+        },
+        "esp32s3": {
+          "cold_s": 5.421
+        }
+      }
+    },
+    "libraries/Matter/examples/Commissioning/MatterCHIPoBLEWiFi/MatterCHIPoBLEWiFi.ino": {
+      "cold_s": 339.815,
+      "by_target": {
+        "esp32c3": {
+          "cold_s": 78.153
+        },
+        "esp32c5": {
+          "cold_s": 86.904
+        },
+        "esp32c6": {
+          "cold_s": 80.894
+        },
+        "esp32s3": {
+          "cold_s": 93.864
+        }
+      }
+    },
+    "libraries/OpenThread/examples/CLI/SimpleThreadNetwork/LeaderNode/LeaderNode.ino": {
+      "cold_s": 20.405,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 6.709
+        },
+        "esp32c6": {
+          "cold_s": 6.785
+        },
+        "esp32h2": {
+          "cold_s": 6.911
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/CoAP/CoAP_Sensor/sensor_client/sensor_client.ino": {
+      "cold_s": 10.504,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 3.536
+        },
+        "esp32c6": {
+          "cold_s": 3.52
+        },
+        "esp32h2": {
+          "cold_s": 3.448
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/ThreadDNSSD/ThreadDNSSD_UDP_Light/light/light.ino": {
+      "cold_s": 10.704,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 3.612
+        },
+        "esp32c6": {
+          "cold_s": 3.585
+        },
+        "esp32h2": {
+          "cold_s": 3.507
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Temp_Hum_Sensor_Sleepy/Zigbee_Temp_Hum_Sensor_Sleepy.ino": {
+      "cold_s": 72.099,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 24.166
+        },
+        "esp32c6": {
+          "cold_s": 24.089
+        },
+        "esp32h2": {
+          "cold_s": 23.844
+        }
+      }
+    },
+    "libraries/USB/examples/USBHostHIDCombo/USBHostHIDCombo.ino": {
+      "cold_s": 45.074,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 14.596
+        },
+        "esp32s2": {
+          "cold_s": 14.651
+        },
+        "esp32s3": {
+          "cold_s": 15.827
+        }
+      }
+    },
+    "libraries/BLE/examples/Beacon_Scanner/Beacon_Scanner.ino": {
+      "cold_s": 159.825,
+      "by_target": {
+        "esp32": {
+          "cold_s": 25.711
+        },
+        "esp32c3": {
+          "cold_s": 21.24
+        },
+        "esp32c5": {
+          "cold_s": 21.953
+        },
+        "esp32c6": {
+          "cold_s": 21.982
+        },
+        "esp32h2": {
+          "cold_s": 21.728
+        },
+        "esp32p4": {
+          "cold_s": 23.395
+        },
+        "esp32s3": {
+          "cold_s": 23.816
+        }
+      }
+    },
+    "libraries/BLE/examples/Server_Gamepad/Server_Gamepad.ino": {
+      "cold_s": 29.441,
+      "by_target": {
+        "esp32": {
+          "cold_s": 7.949
+        },
+        "esp32c3": {
+          "cold_s": 3.314
+        },
+        "esp32c5": {
+          "cold_s": 3.483
+        },
+        "esp32c6": {
+          "cold_s": 3.443
+        },
+        "esp32h2": {
+          "cold_s": 3.364
+        },
+        "esp32p4": {
+          "cold_s": 3.602
+        },
+        "esp32s3": {
+          "cold_s": 4.286
+        }
+      }
+    },
+    "libraries/BluetoothSerial/examples/bt_classic_device_discovery/bt_classic_device_discovery.ino": {
+      "cold_s": 7.684,
+      "by_target": {
+        "esp32": {
+          "cold_s": 7.684
+        }
+      }
+    },
+    "libraries/EEPROM/examples/eeprom_write/eeprom_write.ino": {
+      "cold_s": 27.811,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.422
+        },
+        "esp32c3": {
+          "cold_s": 2.383
+        },
+        "esp32c5": {
+          "cold_s": 2.418
+        },
+        "esp32c6": {
+          "cold_s": 2.482
+        },
+        "esp32h2": {
+          "cold_s": 2.371
+        },
+        "esp32p4": {
+          "cold_s": 2.457
+        },
+        "esp32s2": {
+          "cold_s": 9.412
+        },
+        "esp32s3": {
+          "cold_s": 2.866
+        }
+      }
+    },
+    "libraries/ESP32/examples/DeepSleep/ExternalWakeUp/ExternalWakeUp.ino": {
+      "cold_s": 21.148,
+      "by_target": {
+        "esp32": {
+          "cold_s": 8.85
+        },
+        "esp32s2": {
+          "cold_s": 2.442
+        },
+        "esp32s3": {
+          "cold_s": 9.856
+        }
+      }
+    },
+    "libraries/ESP32/examples/Serial/IrdaMode_TwoBoard_Demo/IrdaMode_TwoBoard_Demo.ino": {
+      "cold_s": 19.638,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.316
+        },
+        "esp32c3": {
+          "cold_s": 2.259
+        },
+        "esp32c5": {
+          "cold_s": 2.263
+        },
+        "esp32c6": {
+          "cold_s": 2.257
+        },
+        "esp32h2": {
+          "cold_s": 2.259
+        },
+        "esp32p4": {
+          "cold_s": 2.239
+        },
+        "esp32s2": {
+          "cold_s": 2.368
+        },
+        "esp32s3": {
+          "cold_s": 2.677
+        }
+      }
+    },
+    "libraries/ESP32/examples/Template/ExampleTemplate/ExampleTemplate.ino": {
+      "cold_s": 18.978,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.222
+        },
+        "esp32c3": {
+          "cold_s": 2.149
+        },
+        "esp32c5": {
+          "cold_s": 2.2
+        },
+        "esp32c6": {
+          "cold_s": 2.193
+        },
+        "esp32h2": {
+          "cold_s": 2.168
+        },
+        "esp32p4": {
+          "cold_s": 2.175
+        },
+        "esp32s2": {
+          "cold_s": 2.305
+        },
+        "esp32s3": {
+          "cold_s": 2.566
+        }
+      }
+    },
+    "libraries/ESP_NOW/examples/ESP_NOW_Network/ESP_NOW_Network.ino": {
+      "cold_s": 57.311,
+      "by_target": {
+        "esp32": {
+          "cold_s": 10.507
+        },
+        "esp32c3": {
+          "cold_s": 8.66
+        },
+        "esp32c5": {
+          "cold_s": 8.901
+        },
+        "esp32c6": {
+          "cold_s": 8.761
+        },
+        "esp32s2": {
+          "cold_s": 9.857
+        },
+        "esp32s3": {
+          "cold_s": 10.625
+        }
+      }
+    },
+    "libraries/HTTPClient/examples/BasicHttpClient/BasicHttpClient.ino": {
+      "cold_s": 43.644,
+      "by_target": {
+        "esp32": {
+          "cold_s": 6.719
+        },
+        "esp32c3": {
+          "cold_s": 4.499
+        },
+        "esp32c5": {
+          "cold_s": 4.805
+        },
+        "esp32c6": {
+          "cold_s": 4.629
+        },
+        "esp32p4": {
+          "cold_s": 9.969
+        },
+        "esp32s2": {
+          "cold_s": 6.338
+        },
+        "esp32s3": {
+          "cold_s": 6.685
+        }
+      }
+    },
+    "libraries/Insights/examples/MinimalDiagnostics/MinimalDiagnostics.ino": {
+      "cold_s": 30.443,
+      "by_target": {
+        "esp32": {
+          "cold_s": 5.999
+        },
+        "esp32c3": {
+          "cold_s": 4.076
+        },
+        "esp32c5": {
+          "cold_s": 4.212
+        },
+        "esp32c6": {
+          "cold_s": 4.131
+        },
+        "esp32s2": {
+          "cold_s": 5.873
+        },
+        "esp32s3": {
+          "cold_s": 6.152
+        }
+      }
+    },
+    "libraries/Matter/examples/Commissioning/MatterCommissionTest/MatterCommissionTest.ino": {
+      "cold_s": 477.589,
+      "by_target": {
+        "esp32": {
+          "cold_s": 70.455
+        },
+        "esp32c3": {
+          "cold_s": 61.98
+        },
+        "esp32c5": {
+          "cold_s": 68.598
+        },
+        "esp32c6": {
+          "cold_s": 63.471
+        },
+        "esp32h2": {
+          "cold_s": 60.285
+        },
+        "esp32s2": {
+          "cold_s": 78.466
+        },
+        "esp32s3": {
+          "cold_s": 74.334
+        }
+      }
+    },
+    "libraries/Matter/examples/GettingStarted/MatterDeviceIdentity/MatterDeviceIdentity.ino": {
+      "cold_s": 95.443,
+      "by_target": {
+        "esp32": {
+          "cold_s": 18.163
+        },
+        "esp32c3": {
+          "cold_s": 9.515
+        },
+        "esp32c5": {
+          "cold_s": 9.88
+        },
+        "esp32c6": {
+          "cold_s": 10.318
+        },
+        "esp32h2": {
+          "cold_s": 9.82
+        },
+        "esp32s2": {
+          "cold_s": 17.731
+        },
+        "esp32s3": {
+          "cold_s": 20.016
+        }
+      }
+    },
+    "libraries/Matter/examples/Sensors/MatterOccupancySensor/MatterOccupancySensor.ino": {
+      "cold_s": 94.044,
+      "by_target": {
+        "esp32": {
+          "cold_s": 17.662
+        },
+        "esp32c3": {
+          "cold_s": 9.595
+        },
+        "esp32c5": {
+          "cold_s": 9.79
+        },
+        "esp32c6": {
+          "cold_s": 10.208
+        },
+        "esp32h2": {
+          "cold_s": 9.735
+        },
+        "esp32s2": {
+          "cold_s": 17.405
+        },
+        "esp32s3": {
+          "cold_s": 19.649
+        }
+      }
+    },
+    "libraries/Preferences/examples/StartCounter/StartCounter.ino": {
+      "cold_s": 20.177,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.199
+        },
+        "esp32c3": {
+          "cold_s": 2.165
+        },
+        "esp32c5": {
+          "cold_s": 2.462
+        },
+        "esp32c6": {
+          "cold_s": 2.365
+        },
+        "esp32h2": {
+          "cold_s": 2.325
+        },
+        "esp32p4": {
+          "cold_s": 2.347
+        },
+        "esp32s2": {
+          "cold_s": 2.664
+        },
+        "esp32s3": {
+          "cold_s": 2.65
+        }
+      }
+    },
+    "libraries/Update/examples/HTTP_Client_AES_OTA_Update/HTTP_Client_AES_OTA_Update.ino": {
+      "cold_s": 40.205,
+      "by_target": {
+        "esp32": {
+          "cold_s": 6.657
+        },
+        "esp32c3": {
+          "cold_s": 4.983
+        },
+        "esp32c5": {
+          "cold_s": 5.149
+        },
+        "esp32c6": {
+          "cold_s": 5.074
+        },
+        "esp32p4": {
+          "cold_s": 4.979
+        },
+        "esp32s2": {
+          "cold_s": 6.534
+        },
+        "esp32s3": {
+          "cold_s": 6.829
+        }
+      }
+    },
+    "libraries/WebServer/examples/PathArgServer/PathArgServer.ino": {
+      "cold_s": 89.417,
+      "by_target": {
+        "esp32": {
+          "cold_s": 12.988
+        },
+        "esp32c3": {
+          "cold_s": 9.999
+        },
+        "esp32c5": {
+          "cold_s": 15.268
+        },
+        "esp32c6": {
+          "cold_s": 10.321
+        },
+        "esp32p4": {
+          "cold_s": 15.227
+        },
+        "esp32s2": {
+          "cold_s": 12.315
+        },
+        "esp32s3": {
+          "cold_s": 13.299
+        }
+      }
+    },
+    "libraries/WiFi/examples/WiFiClientEvents/WiFiClientEvents.ino": {
+      "cold_s": 27.086,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.732
+        },
+        "esp32c3": {
+          "cold_s": 3.278
+        },
+        "esp32c5": {
+          "cold_s": 3.368
+        },
+        "esp32c6": {
+          "cold_s": 3.276
+        },
+        "esp32p4": {
+          "cold_s": 3.149
+        },
+        "esp32s2": {
+          "cold_s": 4.457
+        },
+        "esp32s3": {
+          "cold_s": 4.826
+        }
+      }
+    },
+    "libraries/Wire/examples/WireMaster/WireMaster.ino": {
+      "cold_s": 20.869,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.378
+        },
+        "esp32c3": {
+          "cold_s": 2.363
+        },
+        "esp32c5": {
+          "cold_s": 2.369
+        },
+        "esp32c6": {
+          "cold_s": 2.609
+        },
+        "esp32h2": {
+          "cold_s": 2.384
+        },
+        "esp32p4": {
+          "cold_s": 2.372
+        },
+        "esp32s2": {
+          "cold_s": 2.54
+        },
+        "esp32s3": {
+          "cold_s": 2.854
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Gateway/Zigbee_Gateway.ino": {
+      "cold_s": 132.76,
+      "by_target": {
+        "esp32": {
+          "cold_s": 26.794
+        },
+        "esp32c3": {
+          "cold_s": 24.095
+        },
+        "esp32c5": {
+          "cold_s": 24.643
+        },
+        "esp32s2": {
+          "cold_s": 27.727
+        },
+        "esp32s3": {
+          "cold_s": 29.501
+        }
+      }
+    },
+    "libraries/ESP32/examples/HWCDC_Events/HWCDC_Events.ino": {
+      "cold_s": 52.286,
+      "by_target": {
+        "esp32c3": {
+          "cold_s": 7.997
+        },
+        "esp32c5": {
+          "cold_s": 8.413
+        },
+        "esp32c6": {
+          "cold_s": 8.238
+        },
+        "esp32h2": {
+          "cold_s": 8.157
+        },
+        "esp32p4": {
+          "cold_s": 9.615
+        },
+        "esp32s3": {
+          "cold_s": 9.866
+        }
+      }
+    },
+    "libraries/OpenThread/examples/CLI/SimpleThreadNetwork/RouterNode/RouterNode.ino": {
+      "cold_s": 16.107,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 5.457
+        },
+        "esp32c6": {
+          "cold_s": 5.215
+        },
+        "esp32h2": {
+          "cold_s": 5.435
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/CoAP/CoAP_Sensor/sensor_server/sensor_server.ino": {
+      "cold_s": 8.633,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 2.933
+        },
+        "esp32c6": {
+          "cold_s": 2.849
+        },
+        "esp32h2": {
+          "cold_s": 2.851
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/ThreadDNSSD/ThreadDNSSD_UDP_Light/switch/switch.ino": {
+      "cold_s": 8.848,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 2.955
+        },
+        "esp32c6": {
+          "cold_s": 2.947
+        },
+        "esp32h2": {
+          "cold_s": 2.946
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Binary_Input_Output/Zigbee_Binary_Input_Output.ino": {
+      "cold_s": 53.834,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 18.039
+        },
+        "esp32c6": {
+          "cold_s": 18.003
+        },
+        "esp32h2": {
+          "cold_s": 17.792
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Temperature_Sensor/Zigbee_Temperature_Sensor.ino": {
+      "cold_s": 9.184,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 3.084
+        },
+        "esp32c6": {
+          "cold_s": 3.038
+        },
+        "esp32h2": {
+          "cold_s": 3.062
+        }
+      }
+    },
+    "libraries/USB/examples/USBHostIDF/USBHostIDF.ino": {
+      "cold_s": 4.944,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 2.242
+        },
+        "esp32s3": {
+          "cold_s": 2.702
+        }
+      }
+    },
+    "libraries/BLE/examples/Client/Client.ino": {
+      "cold_s": 166.039,
+      "by_target": {
+        "esp32": {
+          "cold_s": 27.052
+        },
+        "esp32c3": {
+          "cold_s": 21.899
+        },
+        "esp32c5": {
+          "cold_s": 22.732
+        },
+        "esp32c6": {
+          "cold_s": 22.791
+        },
+        "esp32h2": {
+          "cold_s": 22.772
+        },
+        "esp32p4": {
+          "cold_s": 23.92
+        },
+        "esp32s3": {
+          "cold_s": 24.873
+        }
+      }
+    },
+    "libraries/BLE/examples/Server_multiconnect/Server_multiconnect.ino": {
+      "cold_s": 29.415,
+      "by_target": {
+        "esp32": {
+          "cold_s": 7.655
+        },
+        "esp32c3": {
+          "cold_s": 3.35
+        },
+        "esp32c5": {
+          "cold_s": 3.529
+        },
+        "esp32c6": {
+          "cold_s": 3.477
+        },
+        "esp32h2": {
+          "cold_s": 3.537
+        },
+        "esp32p4": {
+          "cold_s": 3.635
+        },
+        "esp32s3": {
+          "cold_s": 4.232
+        }
+      }
+    },
+    "libraries/BluetoothSerial/examples/bt_remove_paired_devices/bt_remove_paired_devices.ino": {
+      "cold_s": 7.767,
+      "by_target": {
+        "esp32": {
+          "cold_s": 7.767
+        }
+      }
+    },
+    "libraries/ESP32/examples/AnalogOut/LEDCFade/LEDCFade.ino": {
+      "cold_s": 26.57,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.291
+        },
+        "esp32c3": {
+          "cold_s": 2.218
+        },
+        "esp32c5": {
+          "cold_s": 2.311
+        },
+        "esp32c6": {
+          "cold_s": 2.234
+        },
+        "esp32h2": {
+          "cold_s": 2.302
+        },
+        "esp32p4": {
+          "cold_s": 2.269
+        },
+        "esp32s2": {
+          "cold_s": 9.272
+        },
+        "esp32s3": {
+          "cold_s": 2.673
+        }
+      }
+    },
+    "libraries/ESP32/examples/DeepSleep/SmoothBlink_ULP_Code/SmoothBlink_ULP_Code.ino": {
+      "cold_s": 8.964,
+      "by_target": {
+        "esp32": {
+          "cold_s": 8.964
+        }
+      }
+    },
+    "libraries/ESP32/examples/MacAddress/GetMacAddress/GetMacAddress.ino": {
+      "cold_s": 19.903,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.269
+        },
+        "esp32c3": {
+          "cold_s": 2.226
+        },
+        "esp32c5": {
+          "cold_s": 2.335
+        },
+        "esp32c6": {
+          "cold_s": 2.362
+        },
+        "esp32h2": {
+          "cold_s": 2.315
+        },
+        "esp32p4": {
+          "cold_s": 2.27
+        },
+        "esp32s2": {
+          "cold_s": 2.412
+        },
+        "esp32s3": {
+          "cold_s": 2.714
+        }
+      }
+    },
+    "libraries/ESP32/examples/Serial/OnReceiveError_BREAK_Demo/OnReceiveError_BREAK_Demo.ino": {
+      "cold_s": 20.057,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.309
+        },
+        "esp32c3": {
+          "cold_s": 2.292
+        },
+        "esp32c5": {
+          "cold_s": 2.349
+        },
+        "esp32c6": {
+          "cold_s": 2.343
+        },
+        "esp32h2": {
+          "cold_s": 2.302
+        },
+        "esp32p4": {
+          "cold_s": 2.305
+        },
+        "esp32s2": {
+          "cold_s": 2.413
+        },
+        "esp32s3": {
+          "cold_s": 2.744
+        }
+      }
+    },
+    "libraries/ESP32/examples/Time/SimpleTime/SimpleTime.ino": {
+      "cold_s": 97.979,
+      "by_target": {
+        "esp32": {
+          "cold_s": 10.065
+        },
+        "esp32c3": {
+          "cold_s": 14.552
+        },
+        "esp32c5": {
+          "cold_s": 14.839
+        },
+        "esp32c6": {
+          "cold_s": 14.943
+        },
+        "esp32p4": {
+          "cold_s": 16.315
+        },
+        "esp32s2": {
+          "cold_s": 9.454
+        },
+        "esp32s3": {
+          "cold_s": 17.811
+        }
+      }
+    },
+    "libraries/ESP_NOW/examples/ESP_NOW_Serial/ESP_NOW_Serial.ino": {
+      "cold_s": 25.087,
+      "by_target": {
+        "esp32": {
+          "cold_s": 5.023
+        },
+        "esp32c3": {
+          "cold_s": 3.336
+        },
+        "esp32c5": {
+          "cold_s": 3.521
+        },
+        "esp32c6": {
+          "cold_s": 3.406
+        },
+        "esp32s2": {
+          "cold_s": 4.733
+        },
+        "esp32s3": {
+          "cold_s": 5.068
+        }
+      }
+    },
+    "libraries/HTTPClient/examples/BasicHttpsClient/BasicHttpsClient.ino": {
+      "cold_s": 38.847,
+      "by_target": {
+        "esp32": {
+          "cold_s": 6.653
+        },
+        "esp32c3": {
+          "cold_s": 4.699
+        },
+        "esp32c5": {
+          "cold_s": 4.79
+        },
+        "esp32c6": {
+          "cold_s": 4.686
+        },
+        "esp32p4": {
+          "cold_s": 4.621
+        },
+        "esp32s2": {
+          "cold_s": 6.392
+        },
+        "esp32s3": {
+          "cold_s": 7.006
+        }
+      }
+    },
+    "libraries/LittleFS/examples/LITTLEFS_test/LITTLEFS_test.ino": {
+      "cold_s": 28.581,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.397
+        },
+        "esp32c3": {
+          "cold_s": 3.341
+        },
+        "esp32c5": {
+          "cold_s": 3.399
+        },
+        "esp32c6": {
+          "cold_s": 3.363
+        },
+        "esp32h2": {
+          "cold_s": 3.379
+        },
+        "esp32p4": {
+          "cold_s": 3.37
+        },
+        "esp32s2": {
+          "cold_s": 3.474
+        },
+        "esp32s3": {
+          "cold_s": 3.858
+        }
+      }
+    },
+    "libraries/Matter/examples/GettingStarted/MatterEvents/MatterEvents.ino": {
+      "cold_s": 391.327,
+      "by_target": {
+        "esp32": {
+          "cold_s": 74.302
+        },
+        "esp32c3": {
+          "cold_s": 64.682
+        },
+        "esp32c5": {
+          "cold_s": 74.521
+        },
+        "esp32c6": {
+          "cold_s": 10.744
+        },
+        "esp32h2": {
+          "cold_s": 10.018
+        },
+        "esp32s2": {
+          "cold_s": 79.57
+        },
+        "esp32s3": {
+          "cold_s": 77.49
+        }
+      }
+    },
+    "libraries/Matter/examples/Sensors/MatterOccupancyWithHoldTime/MatterOccupancyWithHoldTime.ino": {
+      "cold_s": 97.249,
+      "by_target": {
+        "esp32": {
+          "cold_s": 18.415
+        },
+        "esp32c3": {
+          "cold_s": 9.96
+        },
+        "esp32c5": {
+          "cold_s": 10.273
+        },
+        "esp32c6": {
+          "cold_s": 10.619
+        },
+        "esp32h2": {
+          "cold_s": 10.072
+        },
+        "esp32s2": {
+          "cold_s": 17.647
+        },
+        "esp32s3": {
+          "cold_s": 20.263
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/ThreadDNSSD/ThreadDNSSD_UDP_Light/web/web.ino": {
+      "cold_s": 58.19,
+      "by_target": {
+        "esp32": {
+          "cold_s": 9.237
+        },
+        "esp32c3": {
+          "cold_s": 7.731
+        },
+        "esp32c5": {
+          "cold_s": 7.793
+        },
+        "esp32c6": {
+          "cold_s": 7.659
+        },
+        "esp32p4": {
+          "cold_s": 7.489
+        },
+        "esp32s2": {
+          "cold_s": 8.907
+        },
+        "esp32s3": {
+          "cold_s": 9.374
+        }
+      }
+    },
+    "libraries/SD/examples/SD_Test/SD_Test.ino": {
+      "cold_s": 28.214,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.285
+        },
+        "esp32c3": {
+          "cold_s": 3.166
+        },
+        "esp32c5": {
+          "cold_s": 3.293
+        },
+        "esp32c6": {
+          "cold_s": 3.192
+        },
+        "esp32h2": {
+          "cold_s": 4.035
+        },
+        "esp32p4": {
+          "cold_s": 3.133
+        },
+        "esp32s2": {
+          "cold_s": 3.39
+        },
+        "esp32s3": {
+          "cold_s": 3.72
+        }
+      }
+    },
+    "libraries/Update/examples/HTTP_Server_AES_OTA_Update/HTTP_Server_AES_OTA_Update.ino": {
+      "cold_s": 42.498,
+      "by_target": {
+        "esp32": {
+          "cold_s": 7.182
+        },
+        "esp32c3": {
+          "cold_s": 5.344
+        },
+        "esp32c5": {
+          "cold_s": 5.29
+        },
+        "esp32c6": {
+          "cold_s": 5.328
+        },
+        "esp32p4": {
+          "cold_s": 5.271
+        },
+        "esp32s2": {
+          "cold_s": 6.828
+        },
+        "esp32s3": {
+          "cold_s": 7.255
+        }
+      }
+    },
+    "libraries/WebServer/examples/SDWebServer/SDWebServer.ino": {
+      "cold_s": 34.438,
+      "by_target": {
+        "esp32": {
+          "cold_s": 6.17
+        },
+        "esp32c3": {
+          "cold_s": 3.933
+        },
+        "esp32c5": {
+          "cold_s": 4.192
+        },
+        "esp32c6": {
+          "cold_s": 4.19
+        },
+        "esp32p4": {
+          "cold_s": 3.873
+        },
+        "esp32s2": {
+          "cold_s": 5.849
+        },
+        "esp32s3": {
+          "cold_s": 6.231
+        }
+      }
+    },
+    "libraries/WiFi/examples/WiFiClientStaticIP/WiFiClientStaticIP.ino": {
+      "cold_s": 28.217,
+      "by_target": {
+        "esp32": {
+          "cold_s": 4.887
+        },
+        "esp32c3": {
+          "cold_s": 3.184
+        },
+        "esp32c5": {
+          "cold_s": 3.434
+        },
+        "esp32c6": {
+          "cold_s": 3.896
+        },
+        "esp32p4": {
+          "cold_s": 3.241
+        },
+        "esp32s2": {
+          "cold_s": 4.672
+        },
+        "esp32s3": {
+          "cold_s": 4.903
+        }
+      }
+    },
+    "libraries/Wire/examples/WireScan/WireScan.ino": {
+      "cold_s": 21.228,
+      "by_target": {
+        "esp32": {
+          "cold_s": 3.452
+        },
+        "esp32c3": {
+          "cold_s": 2.401
+        },
+        "esp32c5": {
+          "cold_s": 2.519
+        },
+        "esp32c6": {
+          "cold_s": 2.558
+        },
+        "esp32h2": {
+          "cold_s": 2.388
+        },
+        "esp32p4": {
+          "cold_s": 2.425
+        },
+        "esp32s2": {
+          "cold_s": 2.61
+        },
+        "esp32s3": {
+          "cold_s": 2.875
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Thermostat/Zigbee_Thermostat.ino": {
+      "cold_s": 134.859,
+      "by_target": {
+        "esp32": {
+          "cold_s": 19.761
+        },
+        "esp32c3": {
+          "cold_s": 18.25
+        },
+        "esp32c5": {
+          "cold_s": 18.868
+        },
+        "esp32c6": {
+          "cold_s": 18.737
+        },
+        "esp32h2": {
+          "cold_s": 18.113
+        },
+        "esp32s2": {
+          "cold_s": 19.843
+        },
+        "esp32s3": {
+          "cold_s": 21.287
+        }
+      }
+    },
+    "libraries/Matter/examples/Commissioning/MatterOnNetworkThread/MatterOnNetworkThread.ino": {
+      "cold_s": 211.417,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 75.403
+        },
+        "esp32c6": {
+          "cold_s": 70.372
+        },
+        "esp32h2": {
+          "cold_s": 65.642
+        }
+      }
+    },
+    "libraries/OpenThread/examples/CLI/StackShutdown/StackShutdown.ino": {
+      "cold_s": 22.894,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 5.655
+        },
+        "esp32c6": {
+          "cold_s": 5.581
+        },
+        "esp32h2": {
+          "cold_s": 11.658
+        }
+      }
+    },
+    "libraries/OpenThread/examples/Native/CoAP/CoAP_SimpleGet/client/client.ino": {
+      "cold_s": 8.824,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 2.982
+        },
+        "esp32c6": {
+          "cold_s": 2.968
+        },
+        "esp32h2": {
+          "cold_s": 2.874
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_CarbonDioxide_Sensor/Zigbee_CarbonDioxide_Sensor.ino": {
+      "cold_s": 55.165,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 18.574
+        },
+        "esp32c6": {
+          "cold_s": 18.529
+        },
+        "esp32h2": {
+          "cold_s": 18.062
+        }
+      }
+    },
+    "libraries/Zigbee/examples/Zigbee_Illuminance_Sensor/Zigbee_Illuminance_Sensor.ino": {
+      "cold_s": 9.341,
+      "by_target": {
+        "esp32c5": {
+          "cold_s": 3.167
+        },
+        "esp32c6": {
+          "cold_s": 3.119
+        },
+        "esp32h2": {
+          "cold_s": 3.055
+        }
+      }
+    },
+    "libraries/USB/examples/USBHostKeyboard/USBHostKeyboard.ino": {
+      "cold_s": 31.422,
+      "by_target": {
+        "esp32p4": {
+          "cold_s": 10.247
+        },
+        "esp32s2": {
+          "cold_s": 10.279
+        },
+        "esp32s3": {
+          "cold_s": 10.896
+        }
+      }
+    }
+  }
+}
